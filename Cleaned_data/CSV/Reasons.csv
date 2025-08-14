@@ -1,0 +1,2425 @@
+reason_id,person_id,transition_id,reason_type,reason_comment
+1,736,1437,Burnout,Job was emotionally draining.
+2,736,1437,Relocation,Relocation forced a change in career.
+3,736,1437,Laid off,Company downsized and I lost my job.
+4,468,922,Laid off,Company downsized and I lost my job.
+5,468,922,Industry decline,Saw layoffs and instability in my field.
+6,1327,2626,Desire for stability,Old industry was unpredictable.
+7,535,1048,Relocation,Moved to a new city and needed a job switch.
+8,535,1048,Laid off,Position was eliminated unexpectedly.
+9,535,1048,Career growth,Felt stuck in the same position for too long.
+10,436,860,Work-life balance,Current job had long hours with no flexibility.
+11,436,860,Industry decline,Needed to move to a growing sector.
+12,436,860,Burnout,Too much stress in the previous role.
+13,696,1361,Better salary,N/A
+14,696,1361,Industry decline,Old industry was shrinking with few jobs.
+15,696,1361,Flexible schedule,Wanted better control over my time.
+16,378,752,Work-life balance,Burned out from constant overtime.
+17,951,1880,Work-life balance,Current job had long hours with no flexibility.
+18,951,1880,Career growth,Wanted to pursue a leadership role.
+19,811,1592,Pursuing passion,Switched to something I'm genuinely excited about.
+20,1448,2865,Job dissatisfaction,Company culture wasn't a good fit.
+21,643,1252,Better salary,Old job didn't pay enough to cover living costs.
+22,643,1252,N/A,N/A
+23,643,1252,Relocation,Relocation forced a change in career.
+24,1062,2112,Better salary,Old job didn't pay enough to cover living costs.
+25,1062,2112,Relocation,Moved to a new city and needed a job switch.
+26,1062,2112,Desire for stability,Seeking consistent income and benefits.
+27,443,872,N/A,Current job had long hours with no flexibility.
+28,789,1544,Work-life balance,Burned out from constant overtime.
+29,789,1544,Better salary,Wanted to earn more to support my family.
+30,789,1544,Job dissatisfaction,Company culture wasn't a good fit.
+31,68,140,Relocation,Relocation forced a change in career.
+32,1169,2321,Relocation,N/A
+33,1169,2321,Flexible schedule,Old job didn't offer schedule flexibility.
+34,1169,2321,Better salary,Wanted to earn more to support my family.
+35,1413,2801,Relocation,Relocated due to family reasons.
+36,1413,2801,Remote work opportunity,"New role allows remote work, which I prefer."
+37,1482,2939,Career growth,Wanted to pursue a leadership role.
+38,1482,2939,Industry decline,Old industry was shrinking with few jobs.
+39,1455,2882,Laid off,Company downsized and I lost my job.
+40,1455,2882,Better salary,Wanted to earn more to support my family.
+41,1204,2386,Flexible schedule,Old job didn't offer schedule flexibility.
+42,1204,2386,Better salary,Old job didn't pay enough to cover living costs.
+43,1204,2386,Desire for stability,Seeking consistent income and benefits.
+44,531,1042,Industry decline,Old industry was shrinking with few jobs.
+45,531,1042,Laid off,Position was eliminated unexpectedly.
+46,531,1042,Better salary,Wanted to earn more to support my family.
+47,240,487,Pursuing passion,Wanted to follow my true interests.
+48,240,487,Job dissatisfaction,didn't enjoy the work I was doing.
+49,424,835,Remote work opportunity,"New role allows remote work, which I prefer."
+50,1426,2822,Job dissatisfaction,Felt unmotivated in my previous role.
+51,622,1209,Flexible schedule,Needed part-time or flexible working hours.
+52,622,1209,Career growth,Felt stuck in the same position for too long.
+53,1484,2944,Relocation,Relocation forced a change in career.
+54,1484,2944,Remote work opportunity,Old job required daily commuting.
+55,1484,2944,Flexible schedule,Wanted better control over my time.
+56,107,224,Relocation,Moved to a new city and needed a job switch.
+57,1027,2047,Desire for stability,Old industry was unpredictable.
+58,451,885,Relocation,Relocated due to family reasons.
+59,461,905,Relocation,Relocated due to family reasons.
+60,461,905,Career growth,Felt stuck in the same position for too long.
+61,461,905,Job dissatisfaction,Felt unmotivated in my previous role.
+62,325,649,Desire for stability,Old industry was unpredictable.
+63,537,1051,Flexible schedule,Wanted better control over my time.
+64,1420,2810,Better salary,Old job didn't pay enough to cover living costs.
+65,1420,2810,Remote work opportunity,"New role allows remote work, which I prefer."
+66,1275,2532,Industry decline,Old industry was shrinking with few jobs.
+67,1275,2532,Better salary,Wanted to earn more to support my family.
+68,1275,2532,Relocation,Relocated due to family reasons.
+69,401,792,Career growth,Felt stuck in the same position for too long.
+70,401,792,Flexible schedule,Wanted better control over my time.
+71,471,926,Flexible schedule,Old job didn't offer schedule flexibility.
+72,894,1761,Relocation,Moved to a new city and needed a job switch.
+73,894,1761,Industry decline,Needed to move to a growing sector.
+74,894,1761,N/A,Switched to something I'm genuinely excited about.
+75,752,1470,Desire for stability,Seeking consistent income and benefits.
+76,752,1470,Job dissatisfaction,didn't enjoy the work I was doing.
+77,752,1470,Pursuing passion,Wanted to follow my true interests.
+78,123,254,Better salary,Old job didn't pay enough to cover living costs.
+79,123,254,Flexible schedule,Old job didn't offer schedule flexibility.
+80,1498,2970,Career growth,No opportunities to move up in the company.
+81,1498,2970,Remote work opportunity,"New role allows remote work, which I prefer."
+82,227,459,Desire for stability,Wanted a more secure job long-term.
+83,227,459,Better salary,Wanted to earn more to support my family.
+84,227,459,Remote work opportunity,"New role allows remote work, which I prefer."
+85,645,1254,Flexible schedule,Wanted better control over my time.
+86,645,1254,Work-life balance,Burned out from constant overtime.
+87,645,1254,Pursuing passion,Previous job wasn't aligned with my goals.
+88,393,779,Laid off,Position was eliminated unexpectedly.
+89,393,779,Desire for stability,Seeking consistent income and benefits.
+90,639,1243,Pursuing passion,Previous job wasn't aligned with my goals.
+91,911,1795,Better salary,Needed better compensation for my skills.
+92,911,1795,Pursuing passion,Previous job wasn't aligned with my goals.
+93,911,1795,Industry decline,Needed to move to a growing sector.
+94,244,495,Remote work opportunity,"New role allows remote work, which I prefer."
+95,181,362,Desire for stability,Seeking consistent income and benefits.
+96,181,362,Industry decline,Needed to move to a growing sector.
+97,469,923,Work-life balance,Needed more time for family and health.
+98,469,923,Pursuing passion,Previous job wasn't aligned with my goals.
+99,469,923,Better salary,Needed better compensation for my skills.
+100,1419,2809,Career growth,Wanted to pursue a leadership role.
+101,1419,2809,Flexible schedule,Wanted better control over my time.
+102,1011,2006,Remote work opportunity,Wanted to work from home for better flexibility.
+103,1011,2006,Job dissatisfaction,Company culture wasn't a good fit.
+104,1011,2006,Relocation,Moved to a new city and needed a job switch.
+105,452,887,Laid off,Company downsized and I lost my job.
+106,452,887,Desire for stability,Seeking consistent income and benefits.
+107,452,887,Relocation,Relocated due to family reasons.
+108,1232,2448,Burnout,Job was emotionally draining.
+109,1232,2448,Flexible schedule,Needed part-time or flexible working hours.
+110,418,823,Desire for stability,Wanted a more secure job long-term.
+111,418,823,Remote work opportunity,Wanted to work from home for better flexibility.
+112,132,273,Remote work opportunity,Old job required daily commuting.
+113,155,316,Industry decline,Needed to move to a growing sector.
+114,155,316,Laid off,Company downsized and I lost my job.
+115,455,893,Flexible schedule,Wanted better control over my time.
+116,455,893,Job dissatisfaction,didn't enjoy the work I was doing.
+117,371,738,Relocation,Moved to a new city and needed a job switch.
+118,16,34,Laid off,Position was eliminated unexpectedly.
+119,16,34,Desire for stability,Seeking consistent income and benefits.
+120,991,1964,Work-life balance,Needed more time for family and health.
+121,197,394,Burnout,Job was emotionally draining.
+122,1071,2133,Relocation,N/A
+123,1071,2133,Laid off,Company downsized and I lost my job.
+124,448,881,Better salary,Wanted to earn more to support my family.
+125,382,761,Burnout,Too much stress in the previous role.
+126,901,1772,Work-life balance,Current job had long hours with no flexibility.
+127,1150,2283,Laid off,Got laid off and had to start over.
+128,1150,2283,Flexible schedule,Wanted better control over my time.
+129,1291,2559,Laid off,Company downsized and I lost my job.
+130,1291,2559,Remote work opportunity,Old job required daily commuting.
+131,1387,2742,Burnout,Mentally exhausted from constant pressure.
+132,832,1629,Laid off,Company downsized and I lost my job.
+133,832,1629,Career growth,Felt stuck in the same position for too long.
+134,344,687,Flexible schedule,Wanted better control over my time.
+135,344,687,Relocation,Relocation forced a change in career.
+136,344,687,Remote work opportunity,Wanted to work from home for better flexibility.
+137,545,1062,Better salary,Needed better compensation for my skills.
+138,291,585,Flexible schedule,Needed part-time or flexible working hours.
+139,291,585,Career growth,No opportunities to move up in the company.
+140,291,585,Laid off,Position was eliminated unexpectedly.
+141,618,1204,Career growth,No opportunities to move up in the company.
+142,618,1204,Burnout,Too much stress in the previous role.
+143,137,281,Pursuing passion,Switched to something I'm genuinely excited about.
+144,137,281,Laid off,Position was eliminated unexpectedly.
+145,137,281,Remote work opportunity,Old job required daily commuting.
+146,1121,2225,Flexible schedule,Wanted better control over my time.
+147,1121,2225,Work-life balance,Current job had long hours with no flexibility.
+148,1303,2583,Laid off,Company downsized and I lost my job.
+149,1303,2583,Career growth,Wanted to pursue a leadership role.
+150,1395,2761,Desire for stability,Old industry was unpredictable.
+151,727,1419,Remote work opportunity,Old job required daily commuting.
+152,727,1419,Flexible schedule,Wanted better control over my time.
+153,727,1419,N/A,didn't enjoy the work I was doing.
+154,428,845,Remote work opportunity,"New role allows remote work, which I prefer."
+155,629,1225,Career growth,No opportunities to move up in the company.
+156,629,1225,Pursuing passion,Wanted to follow my true interests.
+157,629,1225,Desire for stability,Seeking consistent income and benefits.
+158,88,185,Better salary,Wanted to earn more to support my family.
+159,88,185,Career growth,Wanted to pursue a leadership role.
+160,1214,2408,Desire for stability,Wanted a more secure job long-term.
+161,1214,2408,Work-life balance,Needed more time for family and health.
+162,419,824,Relocation,Relocated due to family reasons.
+163,716,1395,Burnout,Too much stress in the previous role.
+164,716,1395,Industry decline,Old industry was shrinking with few jobs.
+165,716,1395,Career growth,Felt stuck in the same position for too long.
+166,1273,2529,Job dissatisfaction,Company culture wasn't a good fit.
+167,1273,2529,Work-life balance,Current job had long hours with no flexibility.
+168,1273,2529,Pursuing passion,Previous job wasn't aligned with my goals.
+169,355,710,Flexible schedule,Needed part-time or flexible working hours.
+170,355,710,Remote work opportunity,Old job required daily commuting.
+171,566,1097,Career growth,No opportunities to move up in the company.
+172,547,1065,Industry decline,Needed to move to a growing sector.
+173,547,1065,Flexible schedule,Wanted better control over my time.
+174,299,599,Laid off,Position was eliminated unexpectedly.
+175,299,599,Career growth,Wanted to pursue a leadership role.
+176,1490,2956,Better salary,Wanted to earn more to support my family.
+177,1349,2664,Work-life balance,Burned out from constant overtime.
+178,1349,2664,Job dissatisfaction,Felt unmotivated in my previous role.
+179,1349,2664,Desire for stability,Wanted a more secure job long-term.
+180,548,1068,Burnout,Mentally exhausted from constant pressure.
+181,548,1068,Relocation,Relocated due to family reasons.
+182,548,1068,Industry decline,Needed to move to a growing sector.
+183,239,486,Desire for stability,Wanted a more secure job long-term.
+184,239,486,Burnout,Too much stress in the previous role.
+185,1399,2768,Laid off,N/A
+186,1399,2768,Desire for stability,Seeking consistent income and benefits.
+187,1399,2768,Job dissatisfaction,didn't enjoy the work I was doing.
+188,203,407,Pursuing passion,Wanted to follow my true interests.
+189,1410,2792,Pursuing passion,Wanted to follow my true interests.
+190,1410,2792,Industry decline,Needed to move to a growing sector.
+191,1410,2792,Work-life balance,Current job had long hours with no flexibility.
+192,927,1827,Pursuing passion,Previous job wasn't aligned with my goals.
+193,927,1827,Desire for stability,Wanted a more secure job long-term.
+194,927,1827,Relocation,Relocated due to family reasons.
+195,284,573,Laid off,Position was eliminated unexpectedly.
+196,284,573,Desire for stability,Seeking consistent income and benefits.
+197,860,1687,Remote work opportunity,Wanted to work from home for better flexibility.
+198,860,1687,Relocation,Relocation forced a change in career.
+199,860,1687,Flexible schedule,Wanted better control over my time.
+200,595,1151,Work-life balance,Burned out from constant overtime.
+201,454,891,Industry decline,Old industry was shrinking with few jobs.
+202,454,891,Laid off,Got laid off and had to start over.
+203,794,1557,Remote work opportunity,"New role allows remote work, which I prefer."
+204,290,583,Work-life balance,Burned out from constant overtime.
+205,290,583,Career growth,Wanted to pursue a leadership role.
+206,290,583,Better salary,Needed better compensation for my skills.
+207,966,1911,Burnout,Too much stress in the previous role.
+208,966,1911,Pursuing passion,Switched to something I'm genuinely excited about.
+209,966,1911,Career growth,Wanted to pursue a leadership role.
+210,129,265,Remote work opportunity,Old job required daily commuting.
+211,129,265,Burnout,Job was emotionally draining.
+212,306,614,Remote work opportunity,"New role allows remote work, which I prefer."
+213,797,1566,Career growth,Wanted to pursue a leadership role.
+214,797,1566,Laid off,Got laid off and had to start over.
+215,797,1566,Pursuing passion,Previous job wasn't aligned with my goals.
+216,179,360,Work-life balance,Needed more time for family and health.
+217,179,360,Relocation,Moved to a new city and needed a job switch.
+218,179,360,Industry decline,Needed to move to a growing sector.
+219,1475,2922,Work-life balance,Current job had long hours with no flexibility.
+220,1475,2922,Flexible schedule,Old job didn't offer schedule flexibility.
+221,27,60,Work-life balance,Current job had long hours with no flexibility.
+222,27,60,Laid off,Got laid off and had to start over.
+223,27,60,Pursuing passion,Previous job wasn't aligned with my goals.
+224,1258,2497,Desire for stability,Seeking consistent income and benefits.
+225,1258,2497,Flexible schedule,Wanted better control over my time.
+226,1258,2497,Work-life balance,Current job had long hours with no flexibility.
+227,784,1536,Better salary,Wanted to earn more to support my family.
+228,784,1536,Work-life balance,Burned out from constant overtime.
+229,784,1536,Relocation,Relocated due to family reasons.
+230,734,1432,Industry decline,Saw layoffs and instability in my field.
+231,549,1069,Desire for stability,Seeking consistent income and benefits.
+232,442,871,Flexible schedule,Old job didn't offer schedule flexibility.
+233,597,1156,Better salary,Needed better compensation for my skills.
+234,597,1156,Pursuing passion,Previous job wasn't aligned with my goals.
+235,597,1156,Remote work opportunity,Wanted to work from home for better flexibility.
+236,215,434,Career growth,Felt stuck in the same position for too long.
+237,215,434,Pursuing passion,Switched to something I'm genuinely excited about.
+238,704,1373,Flexible schedule,Needed part-time or flexible working hours.
+239,704,1373,Remote work opportunity,Wanted to work from home for better flexibility.
+240,1061,2111,Better salary,Needed better compensation for my skills.
+241,1061,2111,Work-life balance,Current job had long hours with no flexibility.
+242,654,1270,Better salary,Wanted to earn more to support my family.
+243,192,382,Career growth,No opportunities to move up in the company.
+244,1251,2481,Pursuing passion,Switched to something I'm genuinely excited about.
+245,941,1855,Pursuing passion,Wanted to follow my true interests.
+246,1067,2125,Pursuing passion,Previous job wasn't aligned with my goals.
+247,1067,2125,Job dissatisfaction,didn't enjoy the work I was doing.
+248,1067,2125,Burnout,Job was emotionally draining.
+249,893,1760,Remote work opportunity,Old job required daily commuting.
+250,893,1760,Flexible schedule,Wanted better control over my time.
+251,1274,2530,N/A,N/A
+252,1274,2530,Work-life balance,Needed more time for family and health.
+253,851,1669,Desire for stability,Wanted a more secure job long-term.
+254,146,297,Better salary,Old job didn't pay enough to cover living costs.
+255,146,297,Pursuing passion,Switched to something I'm genuinely excited about.
+256,501,990,Relocation,Relocated due to family reasons.
+257,501,990,Desire for stability,Seeking consistent income and benefits.
+258,334,666,Flexible schedule,Needed part-time or flexible working hours.
+259,1283,2546,Industry decline,Needed to move to a growing sector.
+260,998,1979,Desire for stability,Old industry was unpredictable.
+261,1467,2901,Career growth,No opportunities to move up in the company.
+262,391,774,Better salary,Needed better compensation for my skills.
+263,391,774,Burnout,Job was emotionally draining.
+264,391,774,Industry decline,Needed to move to a growing sector.
+265,1041,2074,Burnout,Job was emotionally draining.
+266,1041,2074,Work-life balance,Needed more time for family and health.
+267,70,142,Job dissatisfaction,didn't enjoy the work I was doing.
+268,70,142,Flexible schedule,Wanted better control over my time.
+269,70,142,Relocation,Moved to a new city and needed a job switch.
+270,392,775,Burnout,Too much stress in the previous role.
+271,392,775,Career growth,Wanted to pursue a leadership role.
+272,1172,2326,Burnout,Job was emotionally draining.
+273,1172,2326,Remote work opportunity,"New role allows remote work, which I prefer."
+274,1172,2326,Better salary,Old job didn't pay enough to cover living costs.
+275,1447,2862,Work-life balance,Current job had long hours with no flexibility.
+276,486,956,Career growth,No opportunities to move up in the company.
+277,486,956,Work-life balance,Burned out from constant overtime.
+278,486,956,Burnout,Mentally exhausted from constant pressure.
+279,660,1286,Work-life balance,Burned out from constant overtime.
+280,1257,2494,Relocation,Relocation forced a change in career.
+281,1377,2720,Job dissatisfaction,Felt unmotivated in my previous role.
+282,1377,2720,Desire for stability,Seeking consistent income and benefits.
+283,1377,2720,Work-life balance,Current job had long hours with no flexibility.
+284,888,1752,Job dissatisfaction,Felt unmotivated in my previous role.
+285,888,1752,Flexible schedule,Old job didn't offer schedule flexibility.
+286,957,1891,Industry decline,Needed to move to a growing sector.
+287,957,1891,Flexible schedule,Old job didn't offer schedule flexibility.
+288,957,1891,Relocation,Relocated due to family reasons.
+289,1211,2404,Industry decline,Needed to move to a growing sector.
+290,877,1728,Better salary,Needed better compensation for my skills.
+291,259,522,Career growth,Wanted to pursue a leadership role.
+292,259,522,Relocation,Relocation forced a change in career.
+293,427,844,Remote work opportunity,Wanted to work from home for better flexibility.
+294,427,844,Career growth,No opportunities to move up in the company.
+295,1208,2395,Burnout,Mentally exhausted from constant pressure.
+296,1208,2395,Laid off,Company downsized and I lost my job.
+297,669,1306,Relocation,Moved to a new city and needed a job switch.
+298,73,148,N/A,Job was emotionally draining.
+299,73,148,Career growth,Felt stuck in the same position for too long.
+300,73,148,Remote work opportunity,Old job required daily commuting.
+301,113,236,Better salary,Needed better compensation for my skills.
+302,113,236,Work-life balance,Needed more time for family and health.
+303,384,764,Job dissatisfaction,didn't enjoy the work I was doing.
+304,679,1325,Flexible schedule,Wanted better control over my time.
+305,679,1325,Pursuing passion,Previous job wasn't aligned with my goals.
+306,679,1325,Remote work opportunity,Old job required daily commuting.
+307,1382,2733,Flexible schedule,Wanted better control over my time.
+308,1382,2733,Industry decline,Needed to move to a growing sector.
+309,1239,2462,Burnout,Mentally exhausted from constant pressure.
+310,1239,2462,Career growth,Wanted to pursue a leadership role.
+311,1239,2462,Pursuing passion,Previous job wasn't aligned with my goals.
+312,312,625,Remote work opportunity,Old job required daily commuting.
+313,312,625,Better salary,Wanted to earn more to support my family.
+314,312,625,Laid off,Got laid off and had to start over.
+315,1260,2501,Desire for stability,Wanted a more secure job long-term.
+316,961,1899,Burnout,Job was emotionally draining.
+317,843,1652,Desire for stability,Old industry was unpredictable.
+318,642,1249,Better salary,Old job didn't pay enough to cover living costs.
+319,642,1249,Flexible schedule,Old job didn't offer schedule flexibility.
+320,642,1249,Work-life balance,Needed more time for family and health.
+321,24,55,Relocation,Moved to a new city and needed a job switch.
+322,24,55,Pursuing passion,Switched to something I'm genuinely excited about.
+323,1195,2368,Job dissatisfaction,Company culture wasn't a good fit.
+324,1195,2368,Burnout,Too much stress in the previous role.
+325,1197,2372,Industry decline,Old industry was shrinking with few jobs.
+326,1197,2372,Flexible schedule,Old job didn't offer schedule flexibility.
+327,852,1672,Laid off,Got laid off and had to start over.
+328,262,530,Career growth,Wanted to pursue a leadership role.
+329,262,530,Flexible schedule,Wanted better control over my time.
+330,49,101,Industry decline,Needed to move to a growing sector.
+331,49,101,Career growth,No opportunities to move up in the company.
+332,285,575,Flexible schedule,Old job didn't offer schedule flexibility.
+333,837,1640,Job dissatisfaction,didn't enjoy the work I was doing.
+334,837,1640,Pursuing passion,Switched to something I'm genuinely excited about.
+335,1334,2637,Relocation,Relocated due to family reasons.
+336,1334,2637,Industry decline,Needed to move to a growing sector.
+337,327,653,Pursuing passion,Previous job wasn't aligned with my goals.
+338,327,653,Remote work opportunity,Wanted to work from home for better flexibility.
+339,655,1273,Job dissatisfaction,Company culture wasn't a good fit.
+340,655,1273,Flexible schedule,Wanted better control over my time.
+341,655,1273,Career growth,Wanted to pursue a leadership role.
+342,30,68,Remote work opportunity,"New role allows remote work, which I prefer."
+343,30,68,Industry decline,Saw layoffs and instability in my field.
+344,30,68,Burnout,Too much stress in the previous role.
+345,234,475,Remote work opportunity,"New role allows remote work, which I prefer."
+346,520,1024,Desire for stability,Old industry was unpredictable.
+347,369,736,Desire for stability,Old industry was unpredictable.
+348,369,736,Burnout,Job was emotionally draining.
+349,369,736,Relocation,Moved to a new city and needed a job switch.
+350,128,264,Relocation,Relocation forced a change in career.
+351,1135,2256,Burnout,Mentally exhausted from constant pressure.
+352,1254,2490,Better salary,Old job didn't pay enough to cover living costs.
+353,1254,2490,Pursuing passion,Previous job wasn't aligned with my goals.
+354,870,1712,Remote work opportunity,Wanted to work from home for better flexibility.
+355,611,1185,Better salary,Wanted to earn more to support my family.
+356,229,465,Job dissatisfaction,didn't enjoy the work I was doing.
+357,229,465,Career growth,No opportunities to move up in the company.
+358,926,1823,Burnout,Mentally exhausted from constant pressure.
+359,926,1823,Work-life balance,Burned out from constant overtime.
+360,621,1208,Career growth,Wanted to pursue a leadership role.
+361,621,1208,Desire for stability,Seeking consistent income and benefits.
+362,621,1208,Work-life balance,Burned out from constant overtime.
+363,731,1429,Industry decline,Saw layoffs and instability in my field.
+364,613,1193,Work-life balance,Current job had long hours with no flexibility.
+365,613,1193,Pursuing passion,Switched to something I'm genuinely excited about.
+366,1267,2517,Remote work opportunity,Old job required daily commuting.
+367,1096,2181,Remote work opportunity,Wanted to work from home for better flexibility.
+368,204,409,Burnout,Mentally exhausted from constant pressure.
+369,204,409,Pursuing passion,Switched to something I'm genuinely excited about.
+370,204,409,Laid off,Got laid off and had to start over.
+371,1350,2666,Desire for stability,Wanted a more secure job long-term.
+372,1350,2666,Industry decline,Needed to move to a growing sector.
+373,1350,2666,Pursuing passion,Switched to something I'm genuinely excited about.
+374,924,1818,Burnout,Job was emotionally draining.
+375,924,1818,Pursuing passion,Previous job wasn't aligned with my goals.
+376,924,1818,Work-life balance,Current job had long hours with no flexibility.
+377,219,444,Better salary,Wanted to earn more to support my family.
+378,219,444,Work-life balance,Needed more time for family and health.
+379,219,444,Desire for stability,Wanted a more secure job long-term.
+380,190,378,Industry decline,Saw layoffs and instability in my field.
+381,190,378,Pursuing passion,Wanted to follow my true interests.
+382,190,378,Relocation,Relocated due to family reasons.
+383,379,753,Industry decline,Old industry was shrinking with few jobs.
+384,379,753,Remote work opportunity,N/A
+385,1147,2273,Desire for stability,Seeking consistent income and benefits.
+386,1147,2273,Career growth,Felt stuck in the same position for too long.
+387,1147,2273,Pursuing passion,Switched to something I'm genuinely excited about.
+388,1362,2689,Relocation,Relocated due to family reasons.
+389,1362,2689,Industry decline,Old industry was shrinking with few jobs.
+390,637,1241,Work-life balance,Current job had long hours with no flexibility.
+391,637,1241,Remote work opportunity,Old job required daily commuting.
+392,637,1241,Better salary,Wanted to earn more to support my family.
+393,1034,2058,Career growth,Felt stuck in the same position for too long.
+394,1034,2058,Relocation,Relocated due to family reasons.
+395,836,1637,Work-life balance,Current job had long hours with no flexibility.
+396,528,1037,Flexible schedule,Wanted better control over my time.
+397,528,1037,Better salary,Needed better compensation for my skills.
+398,528,1037,Industry decline,Old industry was shrinking with few jobs.
+399,1127,2239,Relocation,Relocation forced a change in career.
+400,1127,2239,Industry decline,Old industry was shrinking with few jobs.
+401,1311,2595,Laid off,Got laid off and had to start over.
+402,1311,2595,Flexible schedule,Wanted better control over my time.
+403,1311,2595,Pursuing passion,Switched to something I'm genuinely excited about.
+404,115,241,Job dissatisfaction,didn't enjoy the work I was doing.
+405,115,241,Industry decline,Needed to move to a growing sector.
+406,1483,2942,Career growth,Wanted to pursue a leadership role.
+407,1483,2942,Flexible schedule,Needed part-time or flexible working hours.
+408,35,78,Desire for stability,Seeking consistent income and benefits.
+409,35,78,Work-life balance,Burned out from constant overtime.
+410,35,78,Better salary,Needed better compensation for my skills.
+411,1488,2952,Industry decline,Saw layoffs and instability in my field.
+412,1488,2952,Better salary,Wanted to earn more to support my family.
+413,582,1128,Work-life balance,Current job had long hours with no flexibility.
+414,1259,2498,Career growth,Wanted to pursue a leadership role.
+415,1259,2498,Remote work opportunity,"New role allows remote work, which I prefer."
+416,1259,2498,Flexible schedule,Old job didn't offer schedule flexibility.
+417,1080,2148,Relocation,Relocated due to family reasons.
+418,1200,2378,Relocation,Relocation forced a change in career.
+419,1200,2378,Work-life balance,Needed more time for family and health.
+420,853,1673,Remote work opportunity,"New role allows remote work, which I prefer."
+421,853,1673,Laid off,Got laid off and had to start over.
+422,947,1868,Career growth,Felt stuck in the same position for too long.
+423,947,1868,Pursuing passion,Wanted to follow my true interests.
+424,947,1868,Job dissatisfaction,Felt unmotivated in my previous role.
+425,1014,2014,Burnout,Too much stress in the previous role.
+426,638,1242,Job dissatisfaction,Felt unmotivated in my previous role.
+427,1184,2347,Burnout,Too much stress in the previous role.
+428,1184,2347,Flexible schedule,Needed part-time or flexible working hours.
+429,1184,2347,Work-life balance,Burned out from constant overtime.
+430,777,1520,Pursuing passion,Previous job wasn't aligned with my goals.
+431,598,1161,Remote work opportunity,Wanted to work from home for better flexibility.
+432,598,1161,Laid off,Position was eliminated unexpectedly.
+433,598,1161,Relocation,Relocated due to family reasons.
+434,37,82,Pursuing passion,Previous job wasn't aligned with my goals.
+435,37,82,Work-life balance,Needed more time for family and health.
+436,37,82,Laid off,Company downsized and I lost my job.
+437,912,1797,Burnout,Job was emotionally draining.
+438,912,1797,Industry decline,Needed to move to a growing sector.
+439,324,647,Desire for stability,Old industry was unpredictable.
+440,324,647,Laid off,Company downsized and I lost my job.
+441,680,1328,Laid off,Company downsized and I lost my job.
+442,1489,2954,Career growth,No opportunities to move up in the company.
+443,1489,2954,Flexible schedule,Wanted better control over my time.
+444,1489,2954,Job dissatisfaction,didn't enjoy the work I was doing.
+445,975,1929,Desire for stability,Wanted a more secure job long-term.
+446,975,1929,Relocation,Relocation forced a change in career.
+447,975,1929,Work-life balance,Current job had long hours with no flexibility.
+448,314,627,Work-life balance,Needed more time for family and health.
+449,314,627,Flexible schedule,Old job didn't offer schedule flexibility.
+450,314,627,Job dissatisfaction,didn't enjoy the work I was doing.
+451,1066,2124,Pursuing passion,Wanted to follow my true interests.
+452,1066,2124,Flexible schedule,Old job didn't offer schedule flexibility.
+453,1066,2124,N/A,Position was eliminated unexpectedly.
+454,1358,2683,Desire for stability,Old industry was unpredictable.
+455,1358,2683,Work-life balance,Needed more time for family and health.
+456,773,1513,Laid off,Got laid off and had to start over.
+457,693,1352,Better salary,Wanted to earn more to support my family.
+458,693,1352,Pursuing passion,Previous job wasn't aligned with my goals.
+459,191,380,Industry decline,Needed to move to a growing sector.
+460,191,380,Career growth,Wanted to pursue a leadership role.
+461,191,380,Flexible schedule,Old job didn't offer schedule flexibility.
+462,1441,2853,Desire for stability,Old industry was unpredictable.
+463,1357,2681,Burnout,Job was emotionally draining.
+464,100,211,Job dissatisfaction,Company culture wasn't a good fit.
+465,100,211,Desire for stability,Old industry was unpredictable.
+466,100,211,Relocation,Moved to a new city and needed a job switch.
+467,616,1198,Career growth,No opportunities to move up in the company.
+468,616,1198,Pursuing passion,Previous job wasn't aligned with my goals.
+469,616,1198,Industry decline,Saw layoffs and instability in my field.
+470,503,993,Pursuing passion,Previous job wasn't aligned with my goals.
+471,503,993,Burnout,Mentally exhausted from constant pressure.
+472,141,288,Better salary,Old job didn't pay enough to cover living costs.
+473,141,288,Work-life balance,Needed more time for family and health.
+474,525,1030,Pursuing passion,Previous job wasn't aligned with my goals.
+475,525,1030,Flexible schedule,Wanted better control over my time.
+476,525,1030,Career growth,No opportunities to move up in the company.
+477,607,1179,Job dissatisfaction,Felt unmotivated in my previous role.
+478,607,1179,Burnout,Too much stress in the previous role.
+479,607,1179,Desire for stability,Seeking consistent income and benefits.
+480,523,1028,Burnout,Mentally exhausted from constant pressure.
+481,523,1028,Better salary,Wanted to earn more to support my family.
+482,135,276,Remote work opportunity,"New role allows remote work, which I prefer."
+483,1093,2172,Job dissatisfaction,didn't enjoy the work I was doing.
+484,405,798,Pursuing passion,Switched to something I'm genuinely excited about.
+485,746,1460,Remote work opportunity,Wanted to work from home for better flexibility.
+486,746,1460,Industry decline,Saw layoffs and instability in my field.
+487,822,1611,Career growth,Wanted to pursue a leadership role.
+488,822,1611,Flexible schedule,Needed part-time or flexible working hours.
+489,822,1611,Relocation,Relocated due to family reasons.
+490,478,943,Industry decline,Needed to move to a growing sector.
+491,1160,2303,Work-life balance,Needed more time for family and health.
+492,1160,2303,Flexible schedule,Wanted better control over my time.
+493,1160,2303,Industry decline,Old industry was shrinking with few jobs.
+494,735,1435,Career growth,Wanted to pursue a leadership role.
+495,735,1435,Burnout,Mentally exhausted from constant pressure.
+496,1316,2604,Work-life balance,Burned out from constant overtime.
+497,1316,2604,Remote work opportunity,Old job required daily commuting.
+498,711,1386,Desire for stability,Seeking consistent income and benefits.
+499,711,1386,Burnout,Too much stress in the previous role.
+500,711,1386,Work-life balance,Needed more time for family and health.
+501,498,985,Work-life balance,Burned out from constant overtime.
+502,498,985,Flexible schedule,Needed part-time or flexible working hours.
+503,498,985,Desire for stability,Old industry was unpredictable.
+504,476,939,Laid off,Position was eliminated unexpectedly.
+505,476,939,Pursuing passion,Switched to something I'm genuinely excited about.
+506,476,939,Career growth,Felt stuck in the same position for too long.
+507,1227,2439,Industry decline,Saw layoffs and instability in my field.
+508,1227,2439,Career growth,Felt stuck in the same position for too long.
+509,1227,2439,Burnout,Job was emotionally draining.
+510,1278,2536,Work-life balance,Current job had long hours with no flexibility.
+511,796,1564,Pursuing passion,Previous job wasn't aligned with my goals.
+512,796,1564,Remote work opportunity,Wanted to work from home for better flexibility.
+513,796,1564,Laid off,Got laid off and had to start over.
+514,496,980,Better salary,Needed better compensation for my skills.
+515,415,813,Job dissatisfaction,didn't enjoy the work I was doing.
+516,415,813,Desire for stability,Wanted a more secure job long-term.
+517,1003,1990,Job dissatisfaction,Company culture wasn't a good fit.
+518,109,228,Burnout,Mentally exhausted from constant pressure.
+519,109,228,Laid off,Position was eliminated unexpectedly.
+520,109,228,Job dissatisfaction,Felt unmotivated in my previous role.
+521,1109,2206,Desire for stability,Seeking consistent income and benefits.
+522,106,220,Industry decline,Needed to move to a growing sector.
+523,106,220,Flexible schedule,Old job didn't offer schedule flexibility.
+524,1485,2946,Desire for stability,Seeking consistent income and benefits.
+525,1485,2946,Laid off,Company downsized and I lost my job.
+526,1485,2946,Better salary,Needed better compensation for my skills.
+527,318,635,Industry decline,Old industry was shrinking with few jobs.
+528,318,635,Remote work opportunity,Wanted to work from home for better flexibility.
+529,221,448,Better salary,Wanted to earn more to support my family.
+530,221,448,Work-life balance,Needed more time for family and health.
+531,376,748,Better salary,Old job didn't pay enough to cover living costs.
+532,376,748,Relocation,Relocated due to family reasons.
+533,376,748,Job dissatisfaction,Company culture wasn't a good fit.
+534,1396,2762,Pursuing passion,Switched to something I'm genuinely excited about.
+535,1091,2169,Relocation,Relocation forced a change in career.
+536,1091,2169,Work-life balance,Current job had long hours with no flexibility.
+537,1255,2491,Job dissatisfaction,didn't enjoy the work I was doing.
+538,1255,2491,Burnout,Too much stress in the previous role.
+539,1255,2491,Career growth,Wanted to pursue a leadership role.
+540,224,454,Job dissatisfaction,didn't enjoy the work I was doing.
+541,224,454,Burnout,Mentally exhausted from constant pressure.
+542,271,544,Burnout,Job was emotionally draining.
+543,343,684,Relocation,Relocation forced a change in career.
+544,343,684,Work-life balance,Current job had long hours with no flexibility.
+545,813,1596,Flexible schedule,Wanted better control over my time.
+546,813,1596,Laid off,Got laid off and had to start over.
+547,1057,2103,Pursuing passion,Switched to something I'm genuinely excited about.
+548,1057,2103,Work-life balance,Needed more time for family and health.
+549,139,284,Relocation,Relocation forced a change in career.
+550,139,284,Job dissatisfaction,Company culture wasn't a good fit.
+551,1007,1997,Industry decline,Needed to move to a growing sector.
+552,1415,2804,Work-life balance,Burned out from constant overtime.
+553,1415,2804,Pursuing passion,Switched to something I'm genuinely excited about.
+554,1415,2804,Better salary,Wanted to earn more to support my family.
+555,750,1466,Relocation,Relocation forced a change in career.
+556,750,1466,Remote work opportunity,Old job required daily commuting.
+557,798,1568,Desire for stability,Seeking consistent income and benefits.
+558,1105,2197,Career growth,Wanted to pursue a leadership role.
+559,1105,2197,Desire for stability,Wanted a more secure job long-term.
+560,1252,2485,Laid off,Position was eliminated unexpectedly.
+561,1252,2485,Better salary,Old job didn't pay enough to cover living costs.
+562,829,1624,Pursuing passion,Previous job wasn't aligned with my goals.
+563,829,1624,Better salary,Wanted to earn more to support my family.
+564,530,1039,Industry decline,Needed to move to a growing sector.
+565,745,1456,Burnout,Mentally exhausted from constant pressure.
+566,745,1456,Work-life balance,Needed more time for family and health.
+567,960,1898,Work-life balance,Needed more time for family and health.
+568,960,1898,Flexible schedule,Old job didn't offer schedule flexibility.
+569,339,677,Work-life balance,Current job had long hours with no flexibility.
+570,339,677,Industry decline,Old industry was shrinking with few jobs.
+571,339,677,Burnout,Job was emotionally draining.
+572,1000,1983,Flexible schedule,Wanted better control over my time.
+573,1122,2228,Work-life balance,Current job had long hours with no flexibility.
+574,1122,2228,Flexible schedule,Old job didn't offer schedule flexibility.
+575,1122,2228,Desire for stability,Old industry was unpredictable.
+576,180,361,Work-life balance,Current job had long hours with no flexibility.
+577,180,361,Remote work opportunity,"New role allows remote work, which I prefer."
+578,180,361,Better salary,Old job didn't pay enough to cover living costs.
+579,841,1648,Job dissatisfaction,didn't enjoy the work I was doing.
+580,841,1648,Work-life balance,Needed more time for family and health.
+581,841,1648,Relocation,Relocated due to family reasons.
+582,690,1345,Career growth,Felt stuck in the same position for too long.
+583,690,1345,Desire for stability,Seeking consistent income and benefits.
+584,690,1345,Industry decline,Old industry was shrinking with few jobs.
+585,625,1216,Better salary,Needed better compensation for my skills.
+586,625,1216,Laid off,Company downsized and I lost my job.
+587,762,1492,Relocation,Moved to a new city and needed a job switch.
+588,762,1492,Remote work opportunity,Wanted to work from home for better flexibility.
+589,762,1492,Career growth,Wanted to pursue a leadership role.
+590,1276,2533,Industry decline,Needed to move to a growing sector.
+591,303,607,Flexible schedule,Old job didn't offer schedule flexibility.
+592,303,607,Remote work opportunity,"New role allows remote work, which I prefer."
+593,1285,2549,Desire for stability,Old industry was unpredictable.
+594,1285,2549,Relocation,Relocation forced a change in career.
+595,1285,2549,Industry decline,Saw layoffs and instability in my field.
+596,1425,2820,Career growth,Wanted to pursue a leadership role.
+597,1425,2820,Desire for stability,N/A
+598,1425,2820,Flexible schedule,Needed part-time or flexible working hours.
+599,1113,2213,Desire for stability,Wanted a more secure job long-term.
+600,78,160,Work-life balance,Current job had long hours with no flexibility.
+601,28,63,Relocation,Relocated due to family reasons.
+602,28,63,Career growth,Felt stuck in the same position for too long.
+603,28,63,Laid off,Got laid off and had to start over.
+604,1235,2455,Better salary,Needed better compensation for my skills.
+605,1235,2455,Industry decline,Needed to move to a growing sector.
+606,1235,2455,Job dissatisfaction,Company culture wasn't a good fit.
+607,362,723,Career growth,Wanted to pursue a leadership role.
+608,362,723,Industry decline,Saw layoffs and instability in my field.
+609,362,723,Burnout,Job was emotionally draining.
+610,1249,2479,Remote work opportunity,Old job required daily commuting.
+611,1249,2479,Relocation,Moved to a new city and needed a job switch.
+612,1249,2479,Desire for stability,Seeking consistent income and benefits.
+613,1402,2773,Industry decline,Saw layoffs and instability in my field.
+614,1402,2773,Relocation,Moved to a new city and needed a job switch.
+615,1402,2773,Burnout,Job was emotionally draining.
+616,407,801,Work-life balance,Current job had long hours with no flexibility.
+617,652,1267,Pursuing passion,Switched to something I'm genuinely excited about.
+618,1341,2650,Desire for stability,Old industry was unpredictable.
+619,1341,2650,Career growth,No opportunities to move up in the company.
+620,968,1914,Desire for stability,Seeking consistent income and benefits.
+621,968,1914,Better salary,Needed better compensation for my skills.
+622,987,1954,Desire for stability,Old industry was unpredictable.
+623,943,1859,Pursuing passion,Wanted to follow my true interests.
+624,943,1859,Relocation,Relocated due to family reasons.
+625,1092,2170,Industry decline,Saw layoffs and instability in my field.
+626,1092,2170,Job dissatisfaction,didn't enjoy the work I was doing.
+627,1092,2170,Career growth,Felt stuck in the same position for too long.
+628,456,895,Flexible schedule,Needed part-time or flexible working hours.
+629,456,895,Pursuing passion,Wanted to follow my true interests.
+630,706,1377,Career growth,No opportunities to move up in the company.
+631,706,1377,Work-life balance,Burned out from constant overtime.
+632,706,1377,Pursuing passion,Wanted to follow my true interests.
+633,1480,2935,Job dissatisfaction,Company culture wasn't a good fit.
+634,1480,2935,Laid off,Position was eliminated unexpectedly.
+635,1480,2935,Career growth,Wanted to pursue a leadership role.
+636,799,1571,Better salary,Needed better compensation for my skills.
+637,799,1571,Job dissatisfaction,didn't enjoy the work I was doing.
+638,1129,2244,Career growth,Felt stuck in the same position for too long.
+639,1129,2244,Burnout,Too much stress in the previous role.
+640,847,1659,Desire for stability,Old industry was unpredictable.
+641,847,1659,Work-life balance,Burned out from constant overtime.
+642,847,1659,Relocation,Moved to a new city and needed a job switch.
+643,1433,2838,Better salary,Old job didn't pay enough to cover living costs.
+644,1044,2080,Job dissatisfaction,Felt unmotivated in my previous role.
+645,1044,2080,Flexible schedule,Old job didn't offer schedule flexibility.
+646,586,1135,Better salary,Needed better compensation for my skills.
+647,586,1135,Pursuing passion,Wanted to follow my true interests.
+648,11,24,Career growth,No opportunities to move up in the company.
+649,1019,2029,Desire for stability,Seeking consistent income and benefits.
+650,1019,2029,Industry decline,Old industry was shrinking with few jobs.
+651,918,1808,Job dissatisfaction,Felt unmotivated in my previous role.
+652,918,1808,Career growth,Wanted to pursue a leadership role.
+653,918,1808,Burnout,Job was emotionally draining.
+654,1486,2947,Industry decline,Old industry was shrinking with few jobs.
+655,950,1875,Remote work opportunity,"New role allows remote work, which I prefer."
+656,72,147,Desire for stability,Old industry was unpredictable.
+657,72,147,Career growth,No opportunities to move up in the company.
+658,72,147,Remote work opportunity,Wanted to work from home for better flexibility.
+659,1210,2402,Desire for stability,Old industry was unpredictable.
+660,1210,2402,Laid off,Got laid off and had to start over.
+661,1210,2402,Work-life balance,Current job had long hours with no flexibility.
+662,286,576,Industry decline,Old industry was shrinking with few jobs.
+663,286,576,Laid off,Position was eliminated unexpectedly.
+664,286,576,Relocation,Relocation forced a change in career.
+665,889,1754,Better salary,Needed better compensation for my skills.
+666,187,374,Relocation,Relocation forced a change in career.
+667,187,374,Desire for stability,Old industry was unpredictable.
+668,187,374,Flexible schedule,Old job didn't offer schedule flexibility.
+669,1393,2756,Flexible schedule,Needed part-time or flexible working hours.
+670,1393,2756,Better salary,Old job didn't pay enough to cover living costs.
+671,953,1883,Remote work opportunity,Wanted to work from home for better flexibility.
+672,953,1883,Burnout,Job was emotionally draining.
+673,743,1454,Industry decline,Needed to move to a growing sector.
+674,743,1454,Relocation,Relocation forced a change in career.
+675,743,1454,Career growth,Wanted to pursue a leadership role.
+676,54,112,Industry decline,Saw layoffs and instability in my field.
+677,54,112,Work-life balance,Needed more time for family and health.
+678,300,601,Career growth,Felt stuck in the same position for too long.
+679,300,601,Pursuing passion,Wanted to follow my true interests.
+680,1073,2138,Remote work opportunity,Wanted to work from home for better flexibility.
+681,1050,2089,Job dissatisfaction,Felt unmotivated in my previous role.
+682,1050,2089,Laid off,Company downsized and I lost my job.
+683,1050,2089,Industry decline,Saw layoffs and instability in my field.
+684,1328,2627,N/A,Old job didn't offer schedule flexibility.
+685,1328,2627,Pursuing passion,Wanted to follow my true interests.
+686,689,1343,Career growth,Felt stuck in the same position for too long.
+687,689,1343,Industry decline,Saw layoffs and instability in my field.
+688,689,1343,Better salary,Wanted to earn more to support my family.
+689,768,1503,Burnout,Mentally exhausted from constant pressure.
+690,768,1503,N/A,Seeking consistent income and benefits.
+691,768,1503,Better salary,Old job didn't pay enough to cover living costs.
+692,517,1019,Industry decline,Old industry was shrinking with few jobs.
+693,517,1019,Burnout,Too much stress in the previous role.
+694,780,1528,Flexible schedule,Old job didn't offer schedule flexibility.
+695,780,1528,Pursuing passion,Wanted to follow my true interests.
+696,1084,2155,Relocation,Relocated due to family reasons.
+697,980,1938,Career growth,No opportunities to move up in the company.
+698,1088,2161,Burnout,Job was emotionally draining.
+699,144,294,Better salary,Old job didn't pay enough to cover living costs.
+700,144,294,Desire for stability,Old industry was unpredictable.
+701,364,728,Burnout,Too much stress in the previous role.
+702,116,243,Burnout,Mentally exhausted from constant pressure.
+703,116,243,Work-life balance,Current job had long hours with no flexibility.
+704,116,243,Better salary,N/A
+705,1352,2671,Work-life balance,Burned out from constant overtime.
+706,1271,2523,Career growth,Wanted to pursue a leadership role.
+707,1163,2309,Desire for stability,Old industry was unpredictable.
+708,997,1976,Laid off,Got laid off and had to start over.
+709,997,1976,Desire for stability,Seeking consistent income and benefits.
+710,997,1976,Burnout,Job was emotionally draining.
+711,58,124,Flexible schedule,Old job didn't offer schedule flexibility.
+712,58,124,Pursuing passion,Wanted to follow my true interests.
+713,58,124,Burnout,Too much stress in the previous role.
+714,1495,2965,Desire for stability,Old industry was unpredictable.
+715,1495,2965,Remote work opportunity,Wanted to work from home for better flexibility.
+716,397,787,Burnout,Mentally exhausted from constant pressure.
+717,269,541,Better salary,Wanted to earn more to support my family.
+718,269,541,Pursuing passion,Switched to something I'm genuinely excited about.
+719,269,541,Industry decline,Old industry was shrinking with few jobs.
+720,1228,2441,Flexible schedule,Wanted better control over my time.
+721,1228,2441,Job dissatisfaction,didn't enjoy the work I was doing.
+722,1228,2441,Laid off,Company downsized and I lost my job.
+723,1418,2808,Relocation,Relocated due to family reasons.
+724,1418,2808,Burnout,Mentally exhausted from constant pressure.
+725,1418,2808,Work-life balance,Needed more time for family and health.
+726,1183,2346,Remote work opportunity,"New role allows remote work, which I prefer."
+727,1183,2346,Burnout,Job was emotionally draining.
+728,1296,2566,Relocation,Moved to a new city and needed a job switch.
+729,1296,2566,Pursuing passion,Switched to something I'm genuinely excited about.
+730,962,1902,Remote work opportunity,Wanted to work from home for better flexibility.
+731,962,1902,Desire for stability,Seeking consistent income and benefits.
+732,1493,2962,Industry decline,Old industry was shrinking with few jobs.
+733,810,1591,Desire for stability,Seeking consistent income and benefits.
+734,810,1591,Better salary,Needed better compensation for my skills.
+735,810,1591,Job dissatisfaction,Company culture wasn't a good fit.
+736,320,640,Work-life balance,Burned out from constant overtime.
+737,320,640,Laid off,Company downsized and I lost my job.
+738,276,557,Career growth,No opportunities to move up in the company.
+739,276,557,Job dissatisfaction,Company culture wasn't a good fit.
+740,818,1604,Burnout,Mentally exhausted from constant pressure.
+741,818,1604,Laid off,Company downsized and I lost my job.
+742,818,1604,Job dissatisfaction,didn't enjoy the work I was doing.
+743,1359,2685,Relocation,Relocation forced a change in career.
+744,1359,2685,Flexible schedule,Old job didn't offer schedule flexibility.
+745,1359,2685,Career growth,Felt stuck in the same position for too long.
+746,39,84,Job dissatisfaction,Company culture wasn't a good fit.
+747,526,1032,Laid off,Got laid off and had to start over.
+748,361,721,Desire for stability,Seeking consistent income and benefits.
+749,9,19,Work-life balance,Burned out from constant overtime.
+750,9,19,Remote work opportunity,Old job required daily commuting.
+751,808,1587,Job dissatisfaction,Company culture wasn't a good fit.
+752,808,1587,Burnout,Mentally exhausted from constant pressure.
+753,984,1946,Industry decline,Needed to move to a growing sector.
+754,984,1946,Flexible schedule,Old job didn't offer schedule flexibility.
+755,984,1946,Work-life balance,N/A
+756,994,1970,Burnout,Too much stress in the previous role.
+757,260,524,Remote work opportunity,Old job required daily commuting.
+758,260,524,Job dissatisfaction,didn't enjoy the work I was doing.
+759,260,524,Flexible schedule,Old job didn't offer schedule flexibility.
+760,599,1162,Relocation,Relocated due to family reasons.
+761,487,960,Better salary,Needed better compensation for my skills.
+762,86,180,Relocation,Relocation forced a change in career.
+763,929,1831,Laid off,Position was eliminated unexpectedly.
+764,236,481,Relocation,Relocated due to family reasons.
+765,236,481,Pursuing passion,Wanted to follow my true interests.
+766,236,481,Laid off,Company downsized and I lost my job.
+767,641,1247,Flexible schedule,Old job didn't offer schedule flexibility.
+768,641,1247,Work-life balance,Needed more time for family and health.
+769,641,1247,Laid off,Position was eliminated unexpectedly.
+770,1338,2646,Pursuing passion,Switched to something I'm genuinely excited about.
+771,1338,2646,Career growth,Wanted to pursue a leadership role.
+772,672,1312,Flexible schedule,Wanted better control over my time.
+773,385,766,Job dissatisfaction,Company culture wasn't a good fit.
+774,385,766,Career growth,Wanted to pursue a leadership role.
+775,385,766,Pursuing passion,Wanted to follow my true interests.
+776,940,1853,Work-life balance,Current job had long hours with no flexibility.
+777,507,1002,Pursuing passion,Switched to something I'm genuinely excited about.
+778,1153,2291,Better salary,Needed better compensation for my skills.
+779,1153,2291,Relocation,Relocated due to family reasons.
+780,878,1730,Work-life balance,Current job had long hours with no flexibility.
+781,878,1730,Pursuing passion,Previous job wasn't aligned with my goals.
+782,550,1070,Burnout,Mentally exhausted from constant pressure.
+783,550,1070,Pursuing passion,Wanted to follow my true interests.
+784,550,1070,Better salary,Needed better compensation for my skills.
+785,510,1007,Flexible schedule,Wanted better control over my time.
+786,510,1007,Desire for stability,Seeking consistent income and benefits.
+787,510,1007,Burnout,Mentally exhausted from constant pressure.
+788,982,1942,Job dissatisfaction,didn't enjoy the work I was doing.
+789,982,1942,Remote work opportunity,"New role allows remote work, which I prefer."
+790,1017,2023,Industry decline,Saw layoffs and instability in my field.
+791,1017,2023,Job dissatisfaction,Company culture wasn't a good fit.
+792,1017,2023,Better salary,Needed better compensation for my skills.
+793,1261,2504,Relocation,Moved to a new city and needed a job switch.
+794,1261,2504,Burnout,Job was emotionally draining.
+795,1261,2504,Remote work opportunity,Old job required daily commuting.
+796,730,1425,Relocation,Relocated due to family reasons.
+797,730,1425,Better salary,Old job didn't pay enough to cover living costs.
+798,560,1085,Career growth,Wanted to pursue a leadership role.
+799,524,1029,Better salary,Needed better compensation for my skills.
+800,1042,2075,Job dissatisfaction,didn't enjoy the work I was doing.
+801,1042,2075,Pursuing passion,Wanted to follow my true interests.
+802,970,1918,Flexible schedule,Needed part-time or flexible working hours.
+803,95,201,Career growth,Wanted to pursue a leadership role.
+804,1152,2288,Burnout,Job was emotionally draining.
+805,1152,2288,Better salary,Wanted to earn more to support my family.
+806,1008,2000,Work-life balance,Current job had long hours with no flexibility.
+807,1008,2000,Better salary,Needed better compensation for my skills.
+808,1008,2000,Relocation,Moved to a new city and needed a job switch.
+809,8,17,Relocation,Moved to a new city and needed a job switch.
+810,8,17,Better salary,Wanted to earn more to support my family.
+811,831,1628,Better salary,Old job didn't pay enough to cover living costs.
+812,831,1628,Career growth,No opportunities to move up in the company.
+813,1040,2072,Burnout,Mentally exhausted from constant pressure.
+814,243,494,Work-life balance,Burned out from constant overtime.
+815,243,494,Relocation,Moved to a new city and needed a job switch.
+816,1004,1992,Remote work opportunity,"New role allows remote work, which I prefer."
+817,989,1957,Job dissatisfaction,Company culture wasn't a good fit.
+818,989,1957,Burnout,Too much stress in the previous role.
+819,265,535,Pursuing passion,Switched to something I'm genuinely excited about.
+820,265,535,Relocation,Relocated due to family reasons.
+821,265,535,Burnout,Job was emotionally draining.
+822,430,849,Remote work opportunity,"New role allows remote work, which I prefer."
+823,149,302,Pursuing passion,Wanted to follow my true interests.
+824,149,302,Flexible schedule,Old job didn't offer schedule flexibility.
+825,1263,2508,Job dissatisfaction,Felt unmotivated in my previous role.
+826,1009,2002,Desire for stability,Seeking consistent income and benefits.
+827,1009,2002,Laid off,Got laid off and had to start over.
+828,863,1695,Remote work opportunity,Old job required daily commuting.
+829,863,1695,Career growth,No opportunities to move up in the company.
+830,656,1274,Flexible schedule,Wanted better control over my time.
+831,656,1274,Pursuing passion,Wanted to follow my true interests.
+832,310,620,Laid off,Company downsized and I lost my job.
+833,145,295,Career growth,No opportunities to move up in the company.
+834,277,558,Career growth,Felt stuck in the same position for too long.
+835,277,558,Industry decline,Needed to move to a growing sector.
+836,277,558,Better salary,Needed better compensation for my skills.
+837,1202,2382,Relocation,Relocated due to family reasons.
+838,1202,2382,Better salary,Old job didn't pay enough to cover living costs.
+839,1202,2382,Job dissatisfaction,Company culture wasn't a good fit.
+840,1289,2556,Pursuing passion,Previous job wasn't aligned with my goals.
+841,1289,2556,Career growth,Felt stuck in the same position for too long.
+842,1289,2556,Burnout,Job was emotionally draining.
+843,175,352,Job dissatisfaction,Company culture wasn't a good fit.
+844,175,352,Pursuing passion,Previous job wasn't aligned with my goals.
+845,175,352,Flexible schedule,Needed part-time or flexible working hours.
+846,882,1740,Burnout,Job was emotionally draining.
+847,882,1740,Career growth,Wanted to pursue a leadership role.
+848,833,1630,Career growth,Wanted to pursue a leadership role.
+849,904,1781,Work-life balance,Needed more time for family and health.
+850,904,1781,Career growth,Wanted to pursue a leadership role.
+851,1306,2586,Industry decline,Needed to move to a growing sector.
+852,973,1923,Relocation,Moved to a new city and needed a job switch.
+853,279,561,Career growth,Felt stuck in the same position for too long.
+854,279,561,Laid off,Got laid off and had to start over.
+855,1188,2357,Desire for stability,Wanted a more secure job long-term.
+856,1188,2357,Laid off,Position was eliminated unexpectedly.
+857,1145,2271,Desire for stability,Wanted a more secure job long-term.
+858,232,471,Better salary,Old job didn't pay enough to cover living costs.
+859,232,471,Work-life balance,Burned out from constant overtime.
+860,232,471,Job dissatisfaction,Felt unmotivated in my previous role.
+861,917,1807,Relocation,Moved to a new city and needed a job switch.
+862,917,1807,Desire for stability,Seeking consistent income and benefits.
+863,917,1807,Burnout,Too much stress in the previous role.
+864,266,536,Burnout,Job was emotionally draining.
+865,1026,2046,Job dissatisfaction,didn't enjoy the work I was doing.
+866,1026,2046,Remote work opportunity,"New role allows remote work, which I prefer."
+867,341,680,Desire for stability,Wanted a more secure job long-term.
+868,341,680,Career growth,Wanted to pursue a leadership role.
+869,977,1932,Remote work opportunity,"New role allows remote work, which I prefer."
+870,714,1392,Flexible schedule,Wanted better control over my time.
+871,714,1392,Work-life balance,Needed more time for family and health.
+872,1481,2936,Relocation,Relocation forced a change in career.
+873,757,1481,Work-life balance,Needed more time for family and health.
+874,1354,2676,Desire for stability,Wanted a more secure job long-term.
+875,467,919,Laid off,Position was eliminated unexpectedly.
+876,467,919,Pursuing passion,Wanted to follow my true interests.
+877,914,1800,Job dissatisfaction,Company culture wasn't a good fit.
+878,914,1800,Career growth,Felt stuck in the same position for too long.
+879,914,1800,Burnout,Job was emotionally draining.
+880,1182,2343,Pursuing passion,Switched to something I'm genuinely excited about.
+881,1390,2748,Relocation,Relocation forced a change in career.
+882,1390,2748,Better salary,Old job didn't pay enough to cover living costs.
+883,732,1430,Desire for stability,Seeking consistent income and benefits.
+884,732,1430,Job dissatisfaction,didn't enjoy the work I was doing.
+885,732,1430,Relocation,Relocated due to family reasons.
+886,1219,2418,Laid off,Got laid off and had to start over.
+887,937,1847,Relocation,Relocation forced a change in career.
+888,937,1847,Remote work opportunity,Old job required daily commuting.
+889,937,1847,Job dissatisfaction,Felt unmotivated in my previous role.
+890,434,857,Industry decline,Old industry was shrinking with few jobs.
+891,434,857,Burnout,Too much stress in the previous role.
+892,1464,2897,Laid off,Got laid off and had to start over.
+893,1464,2897,Work-life balance,Needed more time for family and health.
+894,1464,2897,Burnout,Too much stress in the previous role.
+895,1500,2975,Laid off,Company downsized and I lost my job.
+896,1500,2975,Desire for stability,Seeking consistent income and benefits.
+897,1500,2975,Better salary,Needed better compensation for my skills.
+898,399,790,Industry decline,Needed to move to a growing sector.
+899,399,790,Laid off,Position was eliminated unexpectedly.
+900,942,1858,N/A,N/A
+901,1213,2407,Laid off,Position was eliminated unexpectedly.
+902,1213,2407,Remote work opportunity,"New role allows remote work, which I prefer."
+903,294,590,Better salary,Wanted to earn more to support my family.
+904,294,590,Career growth,Wanted to pursue a leadership role.
+905,1216,2412,Desire for stability,Seeking consistent income and benefits.
+906,521,1025,Desire for stability,Old industry was unpredictable.
+907,1262,2506,Pursuing passion,Switched to something I'm genuinely excited about.
+908,1262,2506,Laid off,Got laid off and had to start over.
+909,345,689,Better salary,Needed better compensation for my skills.
+910,921,1813,Better salary,Needed better compensation for my skills.
+911,612,1188,Flexible schedule,Old job didn't offer schedule flexibility.
+912,612,1188,Laid off,Company downsized and I lost my job.
+913,1347,2659,Desire for stability,Wanted a more secure job long-term.
+914,1347,2659,Work-life balance,Current job had long hours with no flexibility.
+915,1031,2054,Burnout,Job was emotionally draining.
+916,1031,2054,Remote work opportunity,Old job required daily commuting.
+917,1103,2193,Work-life balance,Needed more time for family and health.
+918,1103,2193,Remote work opportunity,Old job required daily commuting.
+919,1136,2258,Relocation,Moved to a new city and needed a job switch.
+920,1136,2258,Career growth,No opportunities to move up in the company.
+921,1136,2258,Better salary,Wanted to earn more to support my family.
+922,358,714,Career growth,Wanted to pursue a leadership role.
+923,358,714,Better salary,Needed better compensation for my skills.
+924,358,714,Job dissatisfaction,Felt unmotivated in my previous role.
+925,783,1535,Better salary,Wanted to earn more to support my family.
+926,1430,2832,Work-life balance,Needed more time for family and health.
+927,1430,2832,Relocation,Relocated due to family reasons.
+928,1430,2832,Remote work opportunity,"New role allows remote work, which I prefer."
+929,971,1919,Work-life balance,Needed more time for family and health.
+930,971,1919,Industry decline,Old industry was shrinking with few jobs.
+931,971,1919,Job dissatisfaction,Company culture wasn't a good fit.
+932,540,1055,Burnout,Job was emotionally draining.
+933,540,1055,Relocation,Relocation forced a change in career.
+934,540,1055,Industry decline,Old industry was shrinking with few jobs.
+935,515,1015,Flexible schedule,Needed part-time or flexible working hours.
+936,632,1231,Work-life balance,Needed more time for family and health.
+937,632,1231,Remote work opportunity,"New role allows remote work, which I prefer."
+938,632,1231,Career growth,Felt stuck in the same position for too long.
+939,581,1126,Laid off,Position was eliminated unexpectedly.
+940,581,1126,Relocation,Moved to a new city and needed a job switch.
+941,125,259,Work-life balance,Needed more time for family and health.
+942,125,259,Burnout,Mentally exhausted from constant pressure.
+943,350,698,Career growth,No opportunities to move up in the company.
+944,315,628,Pursuing passion,Switched to something I'm genuinely excited about.
+945,883,1742,Laid off,Company downsized and I lost my job.
+946,1407,2785,Industry decline,Old industry was shrinking with few jobs.
+947,1407,2785,Remote work opportunity,Wanted to work from home for better flexibility.
+948,1407,2785,Flexible schedule,Wanted better control over my time.
+949,682,1330,Relocation,Relocation forced a change in career.
+950,1453,2878,Relocation,Moved to a new city and needed a job switch.
+951,779,1526,Pursuing passion,Wanted to follow my true interests.
+952,353,706,Burnout,Too much stress in the previous role.
+953,353,706,Remote work opportunity,"New role allows remote work, which I prefer."
+954,394,781,Job dissatisfaction,didn't enjoy the work I was doing.
+955,1290,2558,Remote work opportunity,"New role allows remote work, which I prefer."
+956,1290,2558,Industry decline,Needed to move to a growing sector.
+957,1115,2218,Laid off,Got laid off and had to start over.
+958,1115,2218,Industry decline,Saw layoffs and instability in my field.
+959,1379,2727,Industry decline,Needed to move to a growing sector.
+960,1159,2302,Desire for stability,Old industry was unpredictable.
+961,201,404,Burnout,Mentally exhausted from constant pressure.
+962,201,404,Flexible schedule,Needed part-time or flexible working hours.
+963,201,404,Better salary,Old job didn't pay enough to cover living costs.
+964,425,838,Remote work opportunity,Wanted to work from home for better flexibility.
+965,1191,2361,Burnout,Job was emotionally draining.
+966,700,1365,Pursuing passion,Switched to something I'm genuinely excited about.
+967,721,1406,Career growth,Felt stuck in the same position for too long.
+968,787,1541,Remote work opportunity,Old job required daily commuting.
+969,1083,2154,Remote work opportunity,"New role allows remote work, which I prefer."
+970,488,963,Better salary,Needed better compensation for my skills.
+971,488,963,Pursuing passion,Switched to something I'm genuinely excited about.
+972,488,963,Work-life balance,Needed more time for family and health.
+973,1371,2708,Relocation,Relocation forced a change in career.
+974,1371,2708,Remote work opportunity,Old job required daily commuting.
+975,1371,2708,Better salary,Wanted to earn more to support my family.
+976,490,968,Flexible schedule,Old job didn't offer schedule flexibility.
+977,869,1710,Better salary,Wanted to earn more to support my family.
+978,869,1710,Desire for stability,Seeking consistent income and benefits.
+979,869,1710,Industry decline,Needed to move to a growing sector.
+980,956,1890,Laid off,Company downsized and I lost my job.
+981,956,1890,Remote work opportunity,Old job required daily commuting.
+982,1029,2050,Career growth,Felt stuck in the same position for too long.
+983,1029,2050,Industry decline,Saw layoffs and instability in my field.
+984,1029,2050,Work-life balance,Current job had long hours with no flexibility.
+985,985,1949,Better salary,Old job didn't pay enough to cover living costs.
+986,985,1949,Desire for stability,Wanted a more secure job long-term.
+987,287,577,Remote work opportunity,Wanted to work from home for better flexibility.
+988,83,170,Work-life balance,Burned out from constant overtime.
+989,83,170,Job dissatisfaction,Felt unmotivated in my previous role.
+990,514,1012,Relocation,Relocation forced a change in career.
+991,1428,2827,Pursuing passion,Wanted to follow my true interests.
+992,1428,2827,Flexible schedule,Old job didn't offer schedule flexibility.
+993,1428,2827,Industry decline,Saw layoffs and instability in my field.
+994,270,542,Remote work opportunity,"New role allows remote work, which I prefer."
+995,270,542,Career growth,Wanted to pursue a leadership role.
+996,208,419,Pursuing passion,Switched to something I'm genuinely excited about.
+997,208,419,Relocation,Relocation forced a change in career.
+998,120,249,Remote work opportunity,Wanted to work from home for better flexibility.
+999,120,249,Desire for stability,Wanted a more secure job long-term.
+1000,574,1116,Pursuing passion,Switched to something I'm genuinely excited about.
+1001,741,1447,Flexible schedule,Wanted better control over my time.
+1002,849,1664,Job dissatisfaction,didn't enjoy the work I was doing.
+1003,849,1664,Desire for stability,Seeking consistent income and benefits.
+1004,849,1664,Flexible schedule,Wanted better control over my time.
+1005,1070,2132,Relocation,Relocation forced a change in career.
+1006,1070,2132,Flexible schedule,Wanted better control over my time.
+1007,1070,2132,Desire for stability,Wanted a more secure job long-term.
+1008,1148,2277,Relocation,Relocated due to family reasons.
+1009,857,1681,Remote work opportunity,Old job required daily commuting.
+1010,857,1681,Desire for stability,Old industry was unpredictable.
+1011,857,1681,Relocation,Moved to a new city and needed a job switch.
+1012,55,114,Laid off,Position was eliminated unexpectedly.
+1013,55,114,Burnout,Job was emotionally draining.
+1014,1203,2384,Career growth,No opportunities to move up in the company.
+1015,1203,2384,Work-life balance,Burned out from constant overtime.
+1016,1405,2782,Better salary,Old job didn't pay enough to cover living costs.
+1017,1405,2782,Career growth,No opportunities to move up in the company.
+1018,1087,2160,Desire for stability,Old industry was unpredictable.
+1019,1087,2160,Pursuing passion,Wanted to follow my true interests.
+1020,1087,2160,Relocation,Moved to a new city and needed a job switch.
+1021,915,1802,Career growth,Wanted to pursue a leadership role.
+1022,915,1802,Pursuing passion,Switched to something I'm genuinely excited about.
+1023,1248,2477,Job dissatisfaction,Felt unmotivated in my previous role.
+1024,1248,2477,Industry decline,Needed to move to a growing sector.
+1025,790,1546,Better salary,Needed better compensation for my skills.
+1026,909,1792,Better salary,Needed better compensation for my skills.
+1027,245,498,Remote work opportunity,Old job required daily commuting.
+1028,245,498,Relocation,Moved to a new city and needed a job switch.
+1029,245,498,Industry decline,Needed to move to a growing sector.
+1030,880,1736,Desire for stability,Old industry was unpredictable.
+1031,140,285,Better salary,Needed better compensation for my skills.
+1032,140,285,Remote work opportunity,"New role allows remote work, which I prefer."
+1033,140,285,Relocation,Relocation forced a change in career.
+1034,1335,2639,Pursuing passion,Switched to something I'm genuinely excited about.
+1035,1335,2639,Desire for stability,Seeking consistent income and benefits.
+1036,1335,2639,Flexible schedule,Wanted better control over my time.
+1037,93,195,Work-life balance,Current job had long hours with no flexibility.
+1038,653,1269,Flexible schedule,Old job didn't offer schedule flexibility.
+1039,577,1120,Better salary,Needed better compensation for my skills.
+1040,577,1120,Desire for stability,Wanted a more secure job long-term.
+1041,577,1120,Laid off,Position was eliminated unexpectedly.
+1042,565,1095,Laid off,Got laid off and had to start over.
+1043,565,1095,Desire for stability,Old industry was unpredictable.
+1044,565,1095,Industry decline,Needed to move to a growing sector.
+1045,465,915,Burnout,Too much stress in the previous role.
+1046,465,915,Laid off,Got laid off and had to start over.
+1047,465,915,Flexible schedule,Old job didn't offer schedule flexibility.
+1048,1128,2241,Flexible schedule,Old job didn't offer schedule flexibility.
+1049,1128,2241,Remote work opportunity,Wanted to work from home for better flexibility.
+1050,866,1703,Career growth,No opportunities to move up in the company.
+1051,866,1703,Relocation,Relocation forced a change in career.
+1052,189,377,Burnout,Mentally exhausted from constant pressure.
+1053,659,1284,Burnout,Mentally exhausted from constant pressure.
+1054,659,1284,Better salary,Old job didn't pay enough to cover living costs.
+1055,1282,2544,Desire for stability,Seeking consistent income and benefits.
+1056,1282,2544,Better salary,Needed better compensation for my skills.
+1057,1330,2630,Desire for stability,Old industry was unpredictable.
+1058,1330,2630,Industry decline,Old industry was shrinking with few jobs.
+1059,1330,2630,Relocation,Moved to a new city and needed a job switch.
+1060,834,1634,Career growth,Wanted to pursue a leadership role.
+1061,834,1634,Work-life balance,Needed more time for family and health.
+1062,697,1362,Industry decline,Needed to move to a growing sector.
+1063,449,883,Remote work opportunity,"New role allows remote work, which I prefer."
+1064,449,883,Relocation,Relocation forced a change in career.
+1065,939,1850,Burnout,Job was emotionally draining.
+1066,939,1850,Flexible schedule,Needed part-time or flexible working hours.
+1067,890,1755,Relocation,Moved to a new city and needed a job switch.
+1068,890,1755,Flexible schedule,Needed part-time or flexible working hours.
+1069,268,540,Relocation,Relocation forced a change in career.
+1070,147,298,Remote work opportunity,"New role allows remote work, which I prefer."
+1071,865,1701,Desire for stability,Seeking consistent income and benefits.
+1072,865,1701,Flexible schedule,Needed part-time or flexible working hours.
+1073,865,1701,Pursuing passion,Switched to something I'm genuinely excited about.
+1074,861,1689,Laid off,Company downsized and I lost my job.
+1075,861,1689,Desire for stability,Old industry was unpredictable.
+1076,964,1908,Career growth,No opportunities to move up in the company.
+1077,964,1908,Better salary,Old job didn't pay enough to cover living costs.
+1078,964,1908,Desire for stability,Wanted a more secure job long-term.
+1079,302,606,Career growth,No opportunities to move up in the company.
+1080,302,606,Desire for stability,Seeking consistent income and benefits.
+1081,302,606,Work-life balance,Needed more time for family and health.
+1082,954,1886,Relocation,N/A
+1083,110,230,Relocation,Relocated due to family reasons.
+1084,110,230,Career growth,No opportunities to move up in the company.
+1085,110,230,Remote work opportunity,Old job required daily commuting.
+1086,426,840,Relocation,Moved to a new city and needed a job switch.
+1087,426,840,Pursuing passion,Previous job wasn't aligned with my goals.
+1088,332,661,Desire for stability,Wanted a more secure job long-term.
+1089,332,661,Flexible schedule,Needed part-time or flexible working hours.
+1090,332,661,Industry decline,Saw layoffs and instability in my field.
+1091,553,1074,Relocation,Relocation forced a change in career.
+1092,720,1405,Relocation,Relocation forced a change in career.
+1093,1469,2905,Job dissatisfaction,Company culture wasn't a good fit.
+1094,1477,2927,Flexible schedule,Old job didn't offer schedule flexibility.
+1095,1477,2927,Laid off,Company downsized and I lost my job.
+1096,250,504,Laid off,Position was eliminated unexpectedly.
+1097,250,504,Flexible schedule,Wanted better control over my time.
+1098,250,504,Career growth,Wanted to pursue a leadership role.
+1099,126,260,Career growth,No opportunities to move up in the company.
+1100,126,260,Job dissatisfaction,didn't enjoy the work I was doing.
+1101,908,1789,Desire for stability,Wanted a more secure job long-term.
+1102,142,289,Job dissatisfaction,didn't enjoy the work I was doing.
+1103,142,289,Career growth,No opportunities to move up in the company.
+1104,372,739,Pursuing passion,Wanted to follow my true interests.
+1105,816,1600,Better salary,Needed better compensation for my skills.
+1106,816,1600,Desire for stability,Wanted a more secure job long-term.
+1107,814,1597,Burnout,Mentally exhausted from constant pressure.
+1108,814,1597,Laid off,Position was eliminated unexpectedly.
+1109,1,2,Job dissatisfaction,didn't enjoy the work I was doing.
+1110,1,2,Flexible schedule,Wanted better control over my time.
+1111,1,2,Laid off,Position was eliminated unexpectedly.
+1112,400,791,Laid off,Position was eliminated unexpectedly.
+1113,400,791,Career growth,No opportunities to move up in the company.
+1114,400,791,Job dissatisfaction,Felt unmotivated in my previous role.
+1115,1313,2599,Laid off,Company downsized and I lost my job.
+1116,112,233,Better salary,Old job didn't pay enough to cover living costs.
+1117,112,233,Pursuing passion,Switched to something I'm genuinely excited about.
+1118,112,233,Desire for stability,Seeking consistent income and benefits.
+1119,19,41,Remote work opportunity,"New role allows remote work, which I prefer."
+1120,19,41,Career growth,Wanted to pursue a leadership role.
+1121,19,41,Relocation,Relocation forced a change in career.
+1122,43,92,Industry decline,Needed to move to a growing sector.
+1123,43,92,Pursuing passion,Switched to something I'm genuinely excited about.
+1124,1463,2896,Career growth,No opportunities to move up in the company.
+1125,1155,2295,Work-life balance,Needed more time for family and health.
+1126,1155,2295,Desire for stability,Seeking consistent income and benefits.
+1127,48,100,Better salary,Wanted to earn more to support my family.
+1128,48,100,Desire for stability,Seeking consistent income and benefits.
+1129,1072,2137,Work-life balance,Current job had long hours with no flexibility.
+1130,1072,2137,Flexible schedule,Old job didn't offer schedule flexibility.
+1131,1072,2137,Pursuing passion,Wanted to follow my true interests.
+1132,906,1786,Career growth,Wanted to pursue a leadership role.
+1133,906,1786,Laid off,Company downsized and I lost my job.
+1134,906,1786,Job dissatisfaction,Felt unmotivated in my previous role.
+1135,965,1910,Burnout,Job was emotionally draining.
+1136,1052,2093,Job dissatisfaction,Felt unmotivated in my previous role.
+1137,1052,2093,Pursuing passion,Wanted to follow my true interests.
+1138,1052,2093,Better salary,Needed better compensation for my skills.
+1139,1023,2039,Relocation,Relocated due to family reasons.
+1140,1023,2039,Work-life balance,Burned out from constant overtime.
+1141,432,854,Career growth,No opportunities to move up in the company.
+1142,432,854,Burnout,Too much stress in the previous role.
+1143,432,854,Job dissatisfaction,didn't enjoy the work I was doing.
+1144,1340,2649,Job dissatisfaction,didn't enjoy the work I was doing.
+1145,564,1093,Work-life balance,Current job had long hours with no flexibility.
+1146,80,163,Desire for stability,Wanted a more secure job long-term.
+1147,80,163,Remote work opportunity,Old job required daily commuting.
+1148,1422,2816,N/A,Relocation forced a change in career.
+1149,1422,2816,Industry decline,Saw layoffs and instability in my field.
+1150,891,1756,Industry decline,Old industry was shrinking with few jobs.
+1151,891,1756,Work-life balance,Needed more time for family and health.
+1152,891,1756,Career growth,Felt stuck in the same position for too long.
+1153,534,1045,Desire for stability,Wanted a more secure job long-term.
+1154,978,1934,Work-life balance,Burned out from constant overtime.
+1155,978,1934,Better salary,Wanted to earn more to support my family.
+1156,370,737,Work-life balance,Needed more time for family and health.
+1157,370,737,Pursuing passion,Previous job wasn't aligned with my goals.
+1158,370,737,Better salary,Needed better compensation for my skills.
+1159,1236,2457,Pursuing passion,Previous job wasn't aligned with my goals.
+1160,1236,2457,Desire for stability,Wanted a more secure job long-term.
+1161,1236,2457,Remote work opportunity,"New role allows remote work, which I prefer."
+1162,71,143,Relocation,Relocation forced a change in career.
+1163,71,143,Work-life balance,Current job had long hours with no flexibility.
+1164,71,143,Career growth,Wanted to pursue a leadership role.
+1165,1077,2142,Better salary,Wanted to earn more to support my family.
+1166,1077,2142,Desire for stability,Wanted a more secure job long-term.
+1167,1038,2067,Pursuing passion,Previous job wasn't aligned with my goals.
+1168,1038,2067,Flexible schedule,Old job didn't offer schedule flexibility.
+1169,438,865,Better salary,Old job didn't pay enough to cover living costs.
+1170,438,865,Relocation,Moved to a new city and needed a job switch.
+1171,438,865,Work-life balance,Burned out from constant overtime.
+1172,164,331,Laid off,Got laid off and had to start over.
+1173,164,331,Relocation,Relocated due to family reasons.
+1174,164,331,Desire for stability,Old industry was unpredictable.
+1175,671,1311,Flexible schedule,Old job didn't offer schedule flexibility.
+1176,671,1311,Relocation,Relocation forced a change in career.
+1177,543,1060,Work-life balance,Needed more time for family and health.
+1178,1295,2565,Burnout,Mentally exhausted from constant pressure.
+1179,1295,2565,Work-life balance,Needed more time for family and health.
+1180,1295,2565,Better salary,Needed better compensation for my skills.
+1181,899,1767,Work-life balance,Burned out from constant overtime.
+1182,981,1941,Burnout,Mentally exhausted from constant pressure.
+1183,335,668,Job dissatisfaction,didn't enjoy the work I was doing.
+1184,335,668,Relocation,Relocation forced a change in career.
+1185,546,1063,Pursuing passion,Switched to something I'm genuinely excited about.
+1186,546,1063,Industry decline,Old industry was shrinking with few jobs.
+1187,561,1087,Pursuing passion,Switched to something I'm genuinely excited about.
+1188,1378,2724,Industry decline,Saw layoffs and instability in my field.
+1189,1378,2724,Remote work opportunity,"New role allows remote work, which I prefer."
+1190,336,671,Career growth,Felt stuck in the same position for too long.
+1191,1331,2632,Work-life balance,Needed more time for family and health.
+1192,516,1017,Flexible schedule,Wanted better control over my time.
+1193,516,1017,Laid off,Position was eliminated unexpectedly.
+1194,910,1793,Pursuing passion,Switched to something I'm genuinely excited about.
+1195,910,1793,Industry decline,Old industry was shrinking with few jobs.
+1196,615,1196,Better salary,Wanted to earn more to support my family.
+1197,615,1196,Pursuing passion,Switched to something I'm genuinely excited about.
+1198,615,1196,Job dissatisfaction,Company culture wasn't a good fit.
+1199,887,1750,Work-life balance,Current job had long hours with no flexibility.
+1200,887,1750,Career growth,Wanted to pursue a leadership role.
+1201,594,1147,Job dissatisfaction,Company culture wasn't a good fit.
+1202,594,1147,Industry decline,Saw layoffs and instability in my field.
+1203,594,1147,Relocation,Relocated due to family reasons.
+1204,589,1140,Laid off,Position was eliminated unexpectedly.
+1205,589,1140,Job dissatisfaction,Felt unmotivated in my previous role.
+1206,1342,2651,Burnout,Too much stress in the previous role.
+1207,1342,2651,Flexible schedule,Wanted better control over my time.
+1208,1384,2737,Flexible schedule,Old job didn't offer schedule flexibility.
+1209,1384,2737,Career growth,Felt stuck in the same position for too long.
+1210,1173,2327,Work-life balance,Current job had long hours with no flexibility.
+1211,1173,2327,Pursuing passion,Wanted to follow my true interests.
+1212,57,121,Better salary,Old job didn't pay enough to cover living costs.
+1213,348,696,Laid off,Company downsized and I lost my job.
+1214,348,696,Desire for stability,Old industry was unpredictable.
+1215,1161,2305,Work-life balance,Needed more time for family and health.
+1216,21,46,Work-life balance,Current job had long hours with no flexibility.
+1217,21,46,Flexible schedule,Old job didn't offer schedule flexibility.
+1218,505,997,Better salary,Needed better compensation for my skills.
+1219,505,997,Burnout,Too much stress in the previous role.
+1220,1170,2323,Remote work opportunity,Wanted to work from home for better flexibility.
+1221,807,1586,Better salary,Wanted to earn more to support my family.
+1222,807,1586,Desire for stability,Old industry was unpredictable.
+1223,1429,2828,Work-life balance,Burned out from constant overtime.
+1224,1429,2828,Job dissatisfaction,Company culture wasn't a good fit.
+1225,1429,2828,Relocation,N/A
+1226,993,1969,Laid off,Company downsized and I lost my job.
+1227,993,1969,Burnout,Too much stress in the previous role.
+1228,993,1969,Desire for stability,Old industry was unpredictable.
+1229,1325,2621,Career growth,Wanted to pursue a leadership role.
+1230,1325,2621,Better salary,Needed better compensation for my skills.
+1231,717,1400,Job dissatisfaction,didn't enjoy the work I was doing.
+1232,717,1400,Desire for stability,Old industry was unpredictable.
+1233,717,1400,Burnout,Job was emotionally draining.
+1234,1298,2571,Work-life balance,Current job had long hours with no flexibility.
+1235,1298,2571,Industry decline,Old industry was shrinking with few jobs.
+1236,1298,2571,Job dissatisfaction,Company culture wasn't a good fit.
+1237,12,25,Remote work opportunity,Old job required daily commuting.
+1238,12,25,Career growth,Wanted to pursue a leadership role.
+1239,12,25,Better salary,Needed better compensation for my skills.
+1240,92,192,Laid off,Position was eliminated unexpectedly.
+1241,92,192,Career growth,Wanted to pursue a leadership role.
+1242,92,192,Desire for stability,Old industry was unpredictable.
+1243,1388,2744,Laid off,Company downsized and I lost my job.
+1244,1302,2581,Flexible schedule,Wanted better control over my time.
+1245,567,1098,Pursuing passion,Wanted to follow my true interests.
+1246,377,750,Industry decline,Old industry was shrinking with few jobs.
+1247,377,750,Pursuing passion,Previous job wasn't aligned with my goals.
+1248,377,750,Job dissatisfaction,Company culture wasn't a good fit.
+1249,678,1324,Desire for stability,Wanted a more secure job long-term.
+1250,678,1324,Remote work opportunity,"New role allows remote work, which I prefer."
+1251,678,1324,Flexible schedule,Needed part-time or flexible working hours.
+1252,683,1331,Pursuing passion,Previous job wasn't aligned with my goals.
+1253,2,4,Flexible schedule,Old job didn't offer schedule flexibility.
+1254,2,4,Career growth,No opportunities to move up in the company.
+1255,2,4,Relocation,Relocation forced a change in career.
+1256,390,772,Pursuing passion,Wanted to follow my true interests.
+1257,1201,2379,Work-life balance,Needed more time for family and health.
+1258,938,1848,Pursuing passion,Wanted to follow my true interests.
+1259,1025,2044,Better salary,Old job didn't pay enough to cover living costs.
+1260,1025,2044,Flexible schedule,Needed part-time or flexible working hours.
+1261,1025,2044,Relocation,Relocation forced a change in career.
+1262,36,81,Burnout,N/A
+1263,1137,2259,Industry decline,Old industry was shrinking with few jobs.
+1264,1137,2259,Job dissatisfaction,Felt unmotivated in my previous role.
+1265,367,733,Desire for stability,Wanted a more secure job long-term.
+1266,1417,2807,Desire for stability,Seeking consistent income and benefits.
+1267,274,555,Desire for stability,Wanted a more secure job long-term.
+1268,274,555,Burnout,Mentally exhausted from constant pressure.
+1269,389,771,Burnout,Job was emotionally draining.
+1270,389,771,Laid off,Position was eliminated unexpectedly.
+1271,389,771,Job dissatisfaction,Felt unmotivated in my previous role.
+1272,396,785,Career growth,No opportunities to move up in the company.
+1273,588,1138,Work-life balance,Needed more time for family and health.
+1274,588,1138,Remote work opportunity,Old job required daily commuting.
+1275,603,1172,Relocation,Moved to a new city and needed a job switch.
+1276,603,1172,Career growth,Felt stuck in the same position for too long.
+1277,603,1172,Better salary,Wanted to earn more to support my family.
+1278,825,1616,Laid off,Company downsized and I lost my job.
+1279,825,1616,Desire for stability,Old industry was unpredictable.
+1280,747,1461,Pursuing passion,Switched to something I'm genuinely excited about.
+1281,1001,1984,Work-life balance,Needed more time for family and health.
+1282,1001,1984,Better salary,Needed better compensation for my skills.
+1283,862,1694,Relocation,Relocated due to family reasons.
+1284,862,1694,Desire for stability,Wanted a more secure job long-term.
+1285,862,1694,Career growth,Wanted to pursue a leadership role.
+1286,184,370,Career growth,No opportunities to move up in the company.
+1287,222,452,Burnout,Job was emotionally draining.
+1288,222,452,Laid off,Got laid off and had to start over.
+1289,1177,2335,Industry decline,Old industry was shrinking with few jobs.
+1290,1177,2335,Flexible schedule,Needed part-time or flexible working hours.
+1291,1177,2335,Remote work opportunity,Old job required daily commuting.
+1292,885,1744,Better salary,Needed better compensation for my skills.
+1293,885,1744,Remote work opportunity,Wanted to work from home for better flexibility.
+1294,885,1744,Pursuing passion,Wanted to follow my true interests.
+1295,1198,2374,Burnout,Mentally exhausted from constant pressure.
+1296,859,1685,Career growth,Wanted to pursue a leadership role.
+1297,18,38,Job dissatisfaction,Felt unmotivated in my previous role.
+1298,161,327,Work-life balance,Needed more time for family and health.
+1299,1411,2795,Remote work opportunity,Wanted to work from home for better flexibility.
+1300,1411,2795,Career growth,No opportunities to move up in the company.
+1301,1218,2415,Job dissatisfaction,Company culture wasn't a good fit.
+1302,1218,2415,Industry decline,Saw layoffs and instability in my field.
+1303,1218,2415,Desire for stability,Old industry was unpredictable.
+1304,162,328,Job dissatisfaction,Company culture wasn't a good fit.
+1305,1086,2158,Desire for stability,Wanted a more secure job long-term.
+1306,821,1610,Burnout,Job was emotionally draining.
+1307,668,1303,Flexible schedule,Old job didn't offer schedule flexibility.
+1308,668,1303,Laid off,Got laid off and had to start over.
+1309,677,1321,Career growth,No opportunities to move up in the company.
+1310,677,1321,Industry decline,Old industry was shrinking with few jobs.
+1311,677,1321,Job dissatisfaction,Felt unmotivated in my previous role.
+1312,121,250,Relocation,Moved to a new city and needed a job switch.
+1313,121,250,Career growth,No opportunities to move up in the company.
+1314,121,250,Laid off,Got laid off and had to start over.
+1315,1037,2065,Burnout,Too much stress in the previous role.
+1316,1098,2184,Career growth,Wanted to pursue a leadership role.
+1317,1098,2184,Flexible schedule,Wanted better control over my time.
+1318,1098,2184,Work-life balance,Burned out from constant overtime.
+1319,51,105,Flexible schedule,Wanted better control over my time.
+1320,51,105,Job dissatisfaction,Felt unmotivated in my previous role.
+1321,337,672,Work-life balance,Current job had long hours with no flexibility.
+1322,337,672,Industry decline,Saw layoffs and instability in my field.
+1323,337,672,Flexible schedule,Needed part-time or flexible working hours.
+1324,662,1291,Better salary,Needed better compensation for my skills.
+1325,1304,2584,Desire for stability,Seeking consistent income and benefits.
+1326,1304,2584,Pursuing passion,Wanted to follow my true interests.
+1327,1304,2584,Laid off,Position was eliminated unexpectedly.
+1328,1240,2463,Work-life balance,Burned out from constant overtime.
+1329,1240,2463,Flexible schedule,Needed part-time or flexible working hours.
+1330,101,213,Pursuing passion,Switched to something I'm genuinely excited about.
+1331,101,213,Industry decline,Needed to move to a growing sector.
+1332,1107,2201,Burnout,Too much stress in the previous role.
+1333,1107,2201,Industry decline,Saw layoffs and instability in my field.
+1334,1107,2201,Job dissatisfaction,Company culture wasn't a good fit.
+1335,439,866,Pursuing passion,Previous job wasn't aligned with my goals.
+1336,439,866,Remote work opportunity,Wanted to work from home for better flexibility.
+1337,439,866,Desire for stability,Wanted a more secure job long-term.
+1338,150,303,Remote work opportunity,Wanted to work from home for better flexibility.
+1339,782,1534,Flexible schedule,Old job didn't offer schedule flexibility.
+1340,1138,2260,Job dissatisfaction,didn't enjoy the work I was doing.
+1341,41,88,Pursuing passion,Switched to something I'm genuinely excited about.
+1342,41,88,Industry decline,Saw layoffs and instability in my field.
+1343,41,88,Desire for stability,Seeking consistent income and benefits.
+1344,1089,2164,Work-life balance,Burned out from constant overtime.
+1345,1089,2164,Industry decline,Saw layoffs and instability in my field.
+1346,298,596,Career growth,Felt stuck in the same position for too long.
+1347,298,596,Burnout,Job was emotionally draining.
+1348,1370,2707,Relocation,Relocated due to family reasons.
+1349,1370,2707,Better salary,Needed better compensation for my skills.
+1350,1370,2707,Pursuing passion,Wanted to follow my true interests.
+1351,429,847,Pursuing passion,Previous job wasn't aligned with my goals.
+1352,429,847,Work-life balance,Current job had long hours with no flexibility.
+1353,196,392,Relocation,Relocated due to family reasons.
+1354,196,392,Industry decline,Old industry was shrinking with few jobs.
+1355,1002,1986,Pursuing passion,Previous job wasn't aligned with my goals.
+1356,1002,1986,Relocation,Moved to a new city and needed a job switch.
+1357,1002,1986,Burnout,Mentally exhausted from constant pressure.
+1358,1333,2635,Job dissatisfaction,Felt unmotivated in my previous role.
+1359,1333,2635,Burnout,Job was emotionally draining.
+1360,959,1897,Better salary,Needed better compensation for my skills.
+1361,959,1897,Desire for stability,Seeking consistent income and benefits.
+1362,959,1897,Job dissatisfaction,Company culture wasn't a good fit.
+1363,580,1125,Job dissatisfaction,Felt unmotivated in my previous role.
+1364,774,1514,Industry decline,Old industry was shrinking with few jobs.
+1365,774,1514,Better salary,Needed better compensation for my skills.
+1366,600,1165,Remote work opportunity,Old job required daily commuting.
+1367,600,1165,Job dissatisfaction,didn't enjoy the work I was doing.
+1368,600,1165,Relocation,Moved to a new city and needed a job switch.
+1369,354,707,Career growth,Wanted to pursue a leadership role.
+1370,354,707,Desire for stability,Seeking consistent income and benefits.
+1371,1373,2712,Pursuing passion,Switched to something I'm genuinely excited about.
+1372,1373,2712,Work-life balance,Current job had long hours with no flexibility.
+1373,1082,2152,Remote work opportunity,Wanted to work from home for better flexibility.
+1374,307,616,Job dissatisfaction,Company culture wasn't a good fit.
+1375,307,616,Desire for stability,Wanted a more secure job long-term.
+1376,307,616,Burnout,Job was emotionally draining.
+1377,1369,2705,Industry decline,Needed to move to a growing sector.
+1378,602,1169,Laid off,Company downsized and I lost my job.
+1379,602,1169,Flexible schedule,Old job didn't offer schedule flexibility.
+1380,167,337,Remote work opportunity,Old job required daily commuting.
+1381,167,337,Laid off,Company downsized and I lost my job.
+1382,703,1372,Pursuing passion,Switched to something I'm genuinely excited about.
+1383,703,1372,Remote work opportunity,Old job required daily commuting.
+1384,764,1495,Remote work opportunity,Old job required daily commuting.
+1385,764,1495,Relocation,Relocation forced a change in career.
+1386,764,1495,Burnout,Job was emotionally draining.
+1387,205,412,Pursuing passion,Wanted to follow my true interests.
+1388,806,1585,Flexible schedule,Wanted better control over my time.
+1389,806,1585,Pursuing passion,Previous job wasn't aligned with my goals.
+1390,806,1585,Work-life balance,Burned out from constant overtime.
+1391,767,1502,Flexible schedule,Needed part-time or flexible working hours.
+1392,767,1502,Pursuing passion,Switched to something I'm genuinely excited about.
+1393,871,1713,Burnout,N/A
+1394,289,581,Laid off,Position was eliminated unexpectedly.
+1395,289,581,Pursuing passion,Switched to something I'm genuinely excited about.
+1396,726,1418,Better salary,Old job didn't pay enough to cover living costs.
+1397,1353,2674,Laid off,Got laid off and had to start over.
+1398,1353,2674,Desire for stability,Wanted a more secure job long-term.
+1399,1353,2674,Industry decline,Saw layoffs and instability in my field.
+1400,1157,2298,Better salary,Needed better compensation for my skills.
+1401,1157,2298,Laid off,Position was eliminated unexpectedly.
+1402,1157,2298,Career growth,No opportunities to move up in the company.
+1403,446,878,Industry decline,Needed to move to a growing sector.
+1404,446,878,Burnout,Job was emotionally draining.
+1405,446,878,Laid off,Got laid off and had to start over.
+1406,1442,2855,Career growth,No opportunities to move up in the company.
+1407,1442,2855,Flexible schedule,Wanted better control over my time.
+1408,1442,2855,Relocation,Moved to a new city and needed a job switch.
+1409,1134,2255,Industry decline,Needed to move to a growing sector.
+1410,1134,2255,Burnout,Job was emotionally draining.
+1411,1134,2255,Career growth,Wanted to pursue a leadership role.
+1412,570,1106,Relocation,Relocation forced a change in career.
+1413,1280,2539,Burnout,Mentally exhausted from constant pressure.
+1414,251,505,Job dissatisfaction,Felt unmotivated in my previous role.
+1415,251,505,Burnout,Too much stress in the previous role.
+1416,444,873,Flexible schedule,Needed part-time or flexible working hours.
+1417,1154,2293,Relocation,Relocated due to family reasons.
+1418,1154,2293,Desire for stability,Wanted a more secure job long-term.
+1419,905,1783,Career growth,Felt stuck in the same position for too long.
+1420,905,1783,Laid off,Got laid off and had to start over.
+1421,905,1783,Burnout,Too much stress in the previous role.
+1422,630,1227,Job dissatisfaction,Felt unmotivated in my previous role.
+1423,584,1132,Relocation,Relocation forced a change in career.
+1424,737,1438,Industry decline,Needed to move to a growing sector.
+1425,737,1438,Career growth,Wanted to pursue a leadership role.
+1426,737,1438,Job dissatisfaction,Felt unmotivated in my previous role.
+1427,1094,2175,Pursuing passion,Switched to something I'm genuinely excited about.
+1428,1094,2175,Flexible schedule,Needed part-time or flexible working hours.
+1429,1094,2175,Industry decline,Needed to move to a growing sector.
+1430,15,32,Work-life balance,Current job had long hours with no flexibility.
+1431,15,32,Relocation,Relocation forced a change in career.
+1432,15,32,Pursuing passion,Wanted to follow my true interests.
+1433,1266,2515,Industry decline,Saw layoffs and instability in my field.
+1434,1266,2515,Burnout,Job was emotionally draining.
+1435,1256,2492,Industry decline,Needed to move to a growing sector.
+1436,1256,2492,Relocation,Moved to a new city and needed a job switch.
+1437,1223,2428,Flexible schedule,Wanted better control over my time.
+1438,840,1645,Better salary,Needed better compensation for my skills.
+1439,840,1645,Career growth,No opportunities to move up in the company.
+1440,840,1645,Desire for stability,Wanted a more secure job long-term.
+1441,25,56,Job dissatisfaction,Company culture wasn't a good fit.
+1442,252,509,Better salary,Wanted to earn more to support my family.
+1443,252,509,Relocation,Relocation forced a change in career.
+1444,252,509,Burnout,Mentally exhausted from constant pressure.
+1445,684,1333,Burnout,Job was emotionally draining.
+1446,684,1333,Relocation,Relocated due to family reasons.
+1447,684,1333,Better salary,Needed better compensation for my skills.
+1448,1045,2081,Burnout,Mentally exhausted from constant pressure.
+1449,1045,2081,Job dissatisfaction,Company culture wasn't a good fit.
+1450,1045,2081,Career growth,No opportunities to move up in the company.
+1451,916,1804,Remote work opportunity,"New role allows remote work, which I prefer."
+1452,916,1804,Relocation,Relocated due to family reasons.
+1453,916,1804,Work-life balance,Needed more time for family and health.
+1454,402,794,Career growth,Felt stuck in the same position for too long.
+1455,402,794,N/A,N/A
+1456,402,794,Desire for stability,Seeking consistent income and benefits.
+1457,1265,2514,Burnout,Mentally exhausted from constant pressure.
+1458,1265,2514,Flexible schedule,Needed part-time or flexible working hours.
+1459,153,309,Relocation,Relocation forced a change in career.
+1460,990,1960,Better salary,Wanted to earn more to support my family.
+1461,990,1960,Career growth,No opportunities to move up in the company.
+1462,990,1960,Laid off,Got laid off and had to start over.
+1463,579,1124,Industry decline,Needed to move to a growing sector.
+1464,579,1124,Career growth,No opportunities to move up in the company.
+1465,538,1053,Career growth,Wanted to pursue a leadership role.
+1466,538,1053,Better salary,Needed better compensation for my skills.
+1467,346,691,Burnout,Mentally exhausted from constant pressure.
+1468,346,691,Better salary,Wanted to earn more to support my family.
+1469,346,691,Desire for stability,Wanted a more secure job long-term.
+1470,420,826,Better salary,Wanted to earn more to support my family.
+1471,420,826,Work-life balance,Burned out from constant overtime.
+1472,420,826,Desire for stability,Wanted a more secure job long-term.
+1473,61,129,Flexible schedule,Wanted better control over my time.
+1474,61,129,Industry decline,Old industry was shrinking with few jobs.
+1475,445,874,Remote work opportunity,Wanted to work from home for better flexibility.
+1476,445,874,Career growth,No opportunities to move up in the company.
+1477,445,874,Better salary,Old job didn't pay enough to cover living costs.
+1478,551,1071,Flexible schedule,Wanted better control over my time.
+1479,551,1071,Industry decline,Old industry was shrinking with few jobs.
+1480,728,1422,Flexible schedule,Needed part-time or flexible working hours.
+1481,728,1422,Relocation,Relocated due to family reasons.
+1482,728,1422,Career growth,Felt stuck in the same position for too long.
+1483,1141,2265,Relocation,Relocated due to family reasons.
+1484,1141,2265,Laid off,Company downsized and I lost my job.
+1485,89,186,Career growth,Felt stuck in the same position for too long.
+1486,89,186,Pursuing passion,Wanted to follow my true interests.
+1487,89,186,Relocation,Moved to a new city and needed a job switch.
+1488,508,1003,Job dissatisfaction,Company culture wasn't a good fit.
+1489,508,1003,Work-life balance,Current job had long hours with no flexibility.
+1490,177,356,Work-life balance,Needed more time for family and health.
+1491,506,999,Relocation,Moved to a new city and needed a job switch.
+1492,506,999,Industry decline,Needed to move to a growing sector.
+1493,506,999,Pursuing passion,Switched to something I'm genuinely excited about.
+1494,763,1494,Career growth,No opportunities to move up in the company.
+1495,763,1494,Industry decline,Old industry was shrinking with few jobs.
+1496,763,1494,Burnout,Too much stress in the previous role.
+1497,148,299,Better salary,Needed better compensation for my skills.
+1498,148,299,Work-life balance,Needed more time for family and health.
+1499,601,1167,Relocation,Relocated due to family reasons.
+1500,601,1167,Industry decline,Old industry was shrinking with few jobs.
+1501,601,1167,Remote work opportunity,Wanted to work from home for better flexibility.
+1502,1016,2021,Flexible schedule,Needed part-time or flexible working hours.
+1503,1451,2874,Career growth,Wanted to pursue a leadership role.
+1504,749,1464,Remote work opportunity,Old job required daily commuting.
+1505,749,1464,Pursuing passion,Previous job wasn't aligned with my goals.
+1506,1323,2619,Remote work opportunity,"New role allows remote work, which I prefer."
+1507,1323,2619,Burnout,Job was emotionally draining.
+1508,206,414,Better salary,Wanted to earn more to support my family.
+1509,206,414,Work-life balance,Needed more time for family and health.
+1510,206,414,Pursuing passion,Previous job wasn't aligned with my goals.
+1511,417,818,Industry decline,Old industry was shrinking with few jobs.
+1512,417,818,Job dissatisfaction,didn't enjoy the work I was doing.
+1513,351,701,Job dissatisfaction,Felt unmotivated in my previous role.
+1514,934,1843,Burnout,Job was emotionally draining.
+1515,122,253,Pursuing passion,Switched to something I'm genuinely excited about.
+1516,122,253,Laid off,Company downsized and I lost my job.
+1517,122,253,Burnout,Job was emotionally draining.
+1518,556,1078,Work-life balance,Current job had long hours with no flexibility.
+1519,1246,2472,Better salary,Wanted to earn more to support my family.
+1520,1246,2472,Industry decline,Needed to move to a growing sector.
+1521,983,1945,Relocation,Moved to a new city and needed a job switch.
+1522,983,1945,Desire for stability,Wanted a more secure job long-term.
+1523,983,1945,Work-life balance,Current job had long hours with no flexibility.
+1524,1315,2603,Burnout,Mentally exhausted from constant pressure.
+1525,1315,2603,Industry decline,Saw layoffs and instability in my field.
+1526,1315,2603,Flexible schedule,Wanted better control over my time.
+1527,1013,2011,Work-life balance,Burned out from constant overtime.
+1528,1013,2011,Laid off,Company downsized and I lost my job.
+1529,1013,2011,Burnout,Mentally exhausted from constant pressure.
+1530,1344,2654,Relocation,Moved to a new city and needed a job switch.
+1531,1344,2654,Better salary,Needed better compensation for my skills.
+1532,463,912,Industry decline,Needed to move to a growing sector.
+1533,463,912,Job dissatisfaction,Company culture wasn't a good fit.
+1534,463,912,Better salary,Needed better compensation for my skills.
+1535,1363,2692,Industry decline,Old industry was shrinking with few jobs.
+1536,1363,2692,Burnout,Job was emotionally draining.
+1537,1363,2692,Flexible schedule,Old job didn't offer schedule flexibility.
+1538,1391,2750,Desire for stability,Wanted a more secure job long-term.
+1539,587,1137,Desire for stability,Old industry was unpredictable.
+1540,1440,2852,Desire for stability,Seeking consistent income and benefits.
+1541,1440,2852,Better salary,N/A
+1542,1440,2852,Pursuing passion,Wanted to follow my true interests.
+1543,1312,2597,Pursuing passion,Switched to something I'm genuinely excited about.
+1544,1312,2597,Relocation,Relocated due to family reasons.
+1545,40,86,Desire for stability,Old industry was unpredictable.
+1546,40,86,Laid off,Position was eliminated unexpectedly.
+1547,1241,2465,Industry decline,Saw layoffs and instability in my field.
+1548,1241,2465,Remote work opportunity,"New role allows remote work, which I prefer."
+1549,835,1635,Job dissatisfaction,didn't enjoy the work I was doing.
+1550,835,1635,Desire for stability,Wanted a more secure job long-term.
+1551,1361,2688,Job dissatisfaction,didn't enjoy the work I was doing.
+1552,1116,2219,Burnout,Job was emotionally draining.
+1553,1116,2219,Laid off,Position was eliminated unexpectedly.
+1554,1036,2063,Desire for stability,Seeking consistent income and benefits.
+1555,1036,2063,Work-life balance,Needed more time for family and health.
+1556,163,329,Work-life balance,Needed more time for family and health.
+1557,163,329,Flexible schedule,Old job didn't offer schedule flexibility.
+1558,163,329,Burnout,Mentally exhausted from constant pressure.
+1559,209,422,Flexible schedule,Wanted better control over my time.
+1560,209,422,Laid off,Got laid off and had to start over.
+1561,504,994,Burnout,Job was emotionally draining.
+1562,504,994,Pursuing passion,Switched to something I'm genuinely excited about.
+1563,650,1264,Flexible schedule,Old job didn't offer schedule flexibility.
+1564,650,1264,Pursuing passion,Previous job wasn't aligned with my goals.
+1565,313,626,Desire for stability,Wanted a more secure job long-term.
+1566,313,626,Better salary,Old job didn't pay enough to cover living costs.
+1567,1207,2392,Flexible schedule,Needed part-time or flexible working hours.
+1568,761,1488,Desire for stability,Wanted a more secure job long-term.
+1569,761,1488,Career growth,Felt stuck in the same position for too long.
+1570,761,1488,Pursuing passion,Switched to something I'm genuinely excited about.
+1571,1054,2097,Relocation,Relocated due to family reasons.
+1572,1209,2398,Job dissatisfaction,Felt unmotivated in my previous role.
+1573,1209,2398,Laid off,Company downsized and I lost my job.
+1574,1209,2398,Desire for stability,Wanted a more secure job long-term.
+1575,309,618,Pursuing passion,Wanted to follow my true interests.
+1576,309,618,N/A,"New role allows remote work, which I prefer."
+1577,309,618,Job dissatisfaction,didn't enjoy the work I was doing.
+1578,724,1412,Laid off,Position was eliminated unexpectedly.
+1579,724,1412,Work-life balance,Burned out from constant overtime.
+1580,724,1412,Desire for stability,Seeking consistent income and benefits.
+1581,1024,2041,Remote work opportunity,"New role allows remote work, which I prefer."
+1582,1024,2041,Burnout,Job was emotionally draining.
+1583,1024,2041,Flexible schedule,Wanted better control over my time.
+1584,781,1530,Desire for stability,Wanted a more secure job long-term.
+1585,755,1475,Flexible schedule,Needed part-time or flexible working hours.
+1586,755,1475,Relocation,Moved to a new city and needed a job switch.
+1587,755,1475,Laid off,Company downsized and I lost my job.
+1588,648,1261,Desire for stability,Seeking consistent income and benefits.
+1589,648,1261,Burnout,Mentally exhausted from constant pressure.
+1590,319,636,Relocation,Relocated due to family reasons.
+1591,319,636,Career growth,Wanted to pursue a leadership role.
+1592,776,1518,Burnout,Mentally exhausted from constant pressure.
+1593,776,1518,Better salary,Wanted to earn more to support my family.
+1594,776,1518,Career growth,No opportunities to move up in the company.
+1595,104,217,Remote work opportunity,Wanted to work from home for better flexibility.
+1596,104,217,Laid off,Position was eliminated unexpectedly.
+1597,573,1114,Work-life balance,Current job had long hours with no flexibility.
+1598,573,1114,Job dissatisfaction,didn't enjoy the work I was doing.
+1599,474,934,Relocation,Relocation forced a change in career.
+1600,474,934,Pursuing passion,Wanted to follow my true interests.
+1601,474,934,Work-life balance,Current job had long hours with no flexibility.
+1602,663,1293,Laid off,Got laid off and had to start over.
+1603,663,1293,Burnout,Too much stress in the previous role.
+1604,663,1293,Industry decline,Needed to move to a growing sector.
+1605,1461,2892,Industry decline,Saw layoffs and instability in my field.
+1606,1461,2892,Job dissatisfaction,Company culture wasn't a good fit.
+1607,1461,2892,Relocation,Relocated due to family reasons.
+1608,842,1649,Remote work opportunity,"New role allows remote work, which I prefer."
+1609,1060,2110,Relocation,Relocated due to family reasons.
+1610,1060,2110,Work-life balance,Current job had long hours with no flexibility.
+1611,1060,2110,Career growth,No opportunities to move up in the company.
+1612,758,1482,Better salary,Needed better compensation for my skills.
+1613,758,1482,Flexible schedule,Old job didn't offer schedule flexibility.
+1614,758,1482,Relocation,Moved to a new city and needed a job switch.
+1615,499,986,Better salary,Wanted to earn more to support my family.
+1616,347,695,Burnout,Too much stress in the previous role.
+1617,347,695,Job dissatisfaction,Felt unmotivated in my previous role.
+1618,999,1980,Remote work opportunity,"New role allows remote work, which I prefer."
+1619,1445,2859,Work-life balance,Burned out from constant overtime.
+1620,1445,2859,Burnout,Mentally exhausted from constant pressure.
+1621,1104,2195,Laid off,Company downsized and I lost my job.
+1622,1288,2555,Industry decline,Saw layoffs and instability in my field.
+1623,1288,2555,Job dissatisfaction,didn't enjoy the work I was doing.
+1624,1288,2555,Work-life balance,Needed more time for family and health.
+1625,827,1619,Flexible schedule,Wanted better control over my time.
+1626,640,1245,Career growth,No opportunities to move up in the company.
+1627,640,1245,Pursuing passion,Previous job wasn't aligned with my goals.
+1628,640,1245,Job dissatisfaction,Felt unmotivated in my previous role.
+1629,491,971,Remote work opportunity,Old job required daily commuting.
+1630,491,971,Job dissatisfaction,Company culture wasn't a good fit.
+1631,1130,2248,Career growth,Felt stuck in the same position for too long.
+1632,1130,2248,Pursuing passion,Wanted to follow my true interests.
+1633,1130,2248,Flexible schedule,Old job didn't offer schedule flexibility.
+1634,828,1623,Pursuing passion,Wanted to follow my true interests.
+1635,955,1889,Job dissatisfaction,Felt unmotivated in my previous role.
+1636,1383,2735,Desire for stability,Seeking consistent income and benefits.
+1637,1383,2735,Pursuing passion,Switched to something I'm genuinely excited about.
+1638,447,879,Pursuing passion,Previous job wasn't aligned with my goals.
+1639,447,879,Job dissatisfaction,Felt unmotivated in my previous role.
+1640,447,879,Laid off,Position was eliminated unexpectedly.
+1641,765,1498,Flexible schedule,Old job didn't offer schedule flexibility.
+1642,765,1498,Career growth,Felt stuck in the same position for too long.
+1643,1444,2857,Flexible schedule,Wanted better control over my time.
+1644,1444,2857,Work-life balance,Burned out from constant overtime.
+1645,1444,2857,Laid off,Got laid off and had to start over.
+1646,435,859,Better salary,Needed better compensation for my skills.
+1647,435,859,Remote work opportunity,Old job required daily commuting.
+1648,435,859,Laid off,Got laid off and had to start over.
+1649,484,953,Job dissatisfaction,Company culture wasn't a good fit.
+1650,484,953,Laid off,Got laid off and had to start over.
+1651,261,527,Remote work opportunity,Old job required daily commuting.
+1652,261,527,Work-life balance,Burned out from constant overtime.
+1653,1156,2297,Work-life balance,Needed more time for family and health.
+1654,1156,2297,Desire for stability,Seeking consistent income and benefits.
+1655,1156,2297,Pursuing passion,Switched to something I'm genuinely excited about.
+1656,242,493,Work-life balance,Needed more time for family and health.
+1657,242,493,Pursuing passion,Switched to something I'm genuinely excited about.
+1658,69,141,Better salary,Wanted to earn more to support my family.
+1659,69,141,Desire for stability,Wanted a more secure job long-term.
+1660,69,141,Pursuing passion,Wanted to follow my true interests.
+1661,168,338,Career growth,Wanted to pursue a leadership role.
+1662,168,338,Pursuing passion,Previous job wasn't aligned with my goals.
+1663,381,760,Industry decline,Old industry was shrinking with few jobs.
+1664,381,760,Career growth,Felt stuck in the same position for too long.
+1665,1443,2856,Laid off,Got laid off and had to start over.
+1666,1443,2856,Remote work opportunity,"New role allows remote work, which I prefer."
+1667,295,591,Relocation,Relocation forced a change in career.
+1668,536,1049,Flexible schedule,Old job didn't offer schedule flexibility.
+1669,536,1049,Remote work opportunity,Old job required daily commuting.
+1670,788,1543,Industry decline,Old industry was shrinking with few jobs.
+1671,1279,2538,Relocation,Moved to a new city and needed a job switch.
+1672,1279,2538,Work-life balance,Burned out from constant overtime.
+1673,1279,2538,Job dissatisfaction,didn't enjoy the work I was doing.
+1674,1022,2036,Flexible schedule,Wanted better control over my time.
+1675,1022,2036,Better salary,N/A
+1676,1022,2036,Desire for stability,Seeking consistent income and benefits.
+1677,1189,2358,Desire for stability,Seeking consistent income and benefits.
+1678,1189,2358,Remote work opportunity,"New role allows remote work, which I prefer."
+1679,62,130,Relocation,Relocated due to family reasons.
+1680,923,1816,Desire for stability,Seeking consistent income and benefits.
+1681,923,1816,Remote work opportunity,Wanted to work from home for better flexibility.
+1682,923,1816,Industry decline,Saw layoffs and instability in my field.
+1683,795,1560,Desire for stability,Seeking consistent income and benefits.
+1684,850,1666,Career growth,No opportunities to move up in the company.
+1685,349,697,Work-life balance,Burned out from constant overtime.
+1686,349,697,Pursuing passion,Previous job wasn't aligned with my goals.
+1687,349,697,Remote work opportunity,"New role allows remote work, which I prefer."
+1688,195,388,Career growth,No opportunities to move up in the company.
+1689,1300,2574,Flexible schedule,Needed part-time or flexible working hours.
+1690,1229,2443,Burnout,Mentally exhausted from constant pressure.
+1691,1229,2443,Remote work opportunity,Wanted to work from home for better flexibility.
+1692,1229,2443,Career growth,Wanted to pursue a leadership role.
+1693,311,623,Remote work opportunity,Wanted to work from home for better flexibility.
+1694,311,623,Laid off,Got laid off and had to start over.
+1695,257,518,Pursuing passion,Previous job wasn't aligned with my goals.
+1696,257,518,Relocation,Moved to a new city and needed a job switch.
+1697,386,767,Remote work opportunity,Wanted to work from home for better flexibility.
+1698,352,703,Industry decline,Saw layoffs and instability in my field.
+1699,352,703,Relocation,Relocated due to family reasons.
+1700,1381,2729,Laid off,Got laid off and had to start over.
+1701,1381,2729,Burnout,Too much stress in the previous role.
+1702,1381,2729,Flexible schedule,Old job didn't offer schedule flexibility.
+1703,20,42,Job dissatisfaction,Felt unmotivated in my previous role.
+1704,20,42,Remote work opportunity,"New role allows remote work, which I prefer."
+1705,20,42,Relocation,Relocation forced a change in career.
+1706,1119,2222,Better salary,Old job didn't pay enough to cover living costs.
+1707,1119,2222,Remote work opportunity,Wanted to work from home for better flexibility.
+1708,1119,2222,Pursuing passion,Switched to something I'm genuinely excited about.
+1709,160,325,Work-life balance,Burned out from constant overtime.
+1710,628,1222,Job dissatisfaction,didn't enjoy the work I was doing.
+1711,628,1222,Relocation,Moved to a new city and needed a job switch.
+1712,628,1222,Industry decline,Needed to move to a growing sector.
+1713,10,21,Career growth,Felt stuck in the same position for too long.
+1714,186,373,Work-life balance,Current job had long hours with no flexibility.
+1715,718,1401,Laid off,Position was eliminated unexpectedly.
+1716,718,1401,Industry decline,Needed to move to a growing sector.
+1717,718,1401,Flexible schedule,Wanted better control over my time.
+1718,437,863,Laid off,Position was eliminated unexpectedly.
+1719,437,863,Pursuing passion,Previous job wasn't aligned with my goals.
+1720,437,863,Work-life balance,Needed more time for family and health.
+1721,723,1410,Remote work opportunity,Wanted to work from home for better flexibility.
+1722,1314,2601,Job dissatisfaction,Felt unmotivated in my previous role.
+1723,1314,2601,Industry decline,Old industry was shrinking with few jobs.
+1724,1314,2601,Burnout,Job was emotionally draining.
+1725,874,1721,Flexible schedule,Needed part-time or flexible working hours.
+1726,874,1721,Remote work opportunity,"New role allows remote work, which I prefer."
+1727,178,358,Relocation,Relocation forced a change in career.
+1728,1423,2817,Desire for stability,Seeking consistent income and benefits.
+1729,1310,2594,Flexible schedule,Wanted better control over my time.
+1730,1310,2594,Laid off,Got laid off and had to start over.
+1731,1310,2594,Remote work opportunity,Old job required daily commuting.
+1732,802,1578,Relocation,Moved to a new city and needed a job switch.
+1733,802,1578,Pursuing passion,Switched to something I'm genuinely excited about.
+1734,802,1578,Desire for stability,Old industry was unpredictable.
+1735,875,1724,Job dissatisfaction,Felt unmotivated in my previous role.
+1736,1389,2745,Career growth,No opportunities to move up in the company.
+1737,275,556,Industry decline,Needed to move to a growing sector.
+1738,22,49,Laid off,Company downsized and I lost my job.
+1739,22,49,Remote work opportunity,Wanted to work from home for better flexibility.
+1740,22,49,Pursuing passion,Switched to something I'm genuinely excited about.
+1741,1270,2522,Career growth,Wanted to pursue a leadership role.
+1742,719,1402,Industry decline,Old industry was shrinking with few jobs.
+1743,719,1402,Desire for stability,Seeking consistent income and benefits.
+1744,32,72,Industry decline,Old industry was shrinking with few jobs.
+1745,32,72,Job dissatisfaction,Felt unmotivated in my previous role.
+1746,823,1612,Flexible schedule,Old job didn't offer schedule flexibility.
+1747,823,1612,Career growth,No opportunities to move up in the company.
+1748,823,1612,Laid off,Company downsized and I lost my job.
+1749,97,204,Industry decline,Saw layoffs and instability in my field.
+1750,709,1383,Career growth,No opportunities to move up in the company.
+1751,387,769,Burnout,Job was emotionally draining.
+1752,387,769,Job dissatisfaction,Company culture wasn't a good fit.
+1753,1012,2009,Career growth,Wanted to pursue a leadership role.
+1754,809,1589,Laid off,Got laid off and had to start over.
+1755,809,1589,Pursuing passion,Switched to something I'm genuinely excited about.
+1756,809,1589,Remote work opportunity,Wanted to work from home for better flexibility.
+1757,1400,2769,Better salary,Needed better compensation for my skills.
+1758,1400,2769,Burnout,Job was emotionally draining.
+1759,1400,2769,Pursuing passion,Switched to something I'm genuinely excited about.
+1760,1215,2411,Burnout,Job was emotionally draining.
+1761,1215,2411,Pursuing passion,Switched to something I'm genuinely excited about.
+1762,1215,2411,Career growth,Felt stuck in the same position for too long.
+1763,539,1054,Career growth,Wanted to pursue a leadership role.
+1764,477,941,Career growth,Felt stuck in the same position for too long.
+1765,664,1294,Job dissatisfaction,didn't enjoy the work I was doing.
+1766,664,1294,Work-life balance,Current job had long hours with no flexibility.
+1767,710,1384,Flexible schedule,Needed part-time or flexible working hours.
+1768,710,1384,Industry decline,Old industry was shrinking with few jobs.
+1769,1059,2106,Burnout,Job was emotionally draining.
+1770,1059,2106,Remote work opportunity,Old job required daily commuting.
+1771,1059,2106,Flexible schedule,Old job didn't offer schedule flexibility.
+1772,633,1233,Better salary,Needed better compensation for my skills.
+1773,464,913,Work-life balance,Needed more time for family and health.
+1774,91,189,Burnout,Mentally exhausted from constant pressure.
+1775,91,189,Industry decline,Old industry was shrinking with few jobs.
+1776,91,189,Desire for stability,Old industry was unpredictable.
+1777,1297,2568,Better salary,Old job didn't pay enough to cover living costs.
+1778,1297,2568,Laid off,Company downsized and I lost my job.
+1779,1297,2568,Remote work opportunity,"New role allows remote work, which I prefer."
+1780,410,806,Better salary,Old job didn't pay enough to cover living costs.
+1781,410,806,Industry decline,Needed to move to a growing sector.
+1782,976,1931,Remote work opportunity,Old job required daily commuting.
+1783,976,1931,Flexible schedule,Needed part-time or flexible working hours.
+1784,46,96,Industry decline,Saw layoffs and instability in my field.
+1785,46,96,Pursuing passion,Wanted to follow my true interests.
+1786,46,96,Burnout,Job was emotionally draining.
+1787,1337,2643,Career growth,No opportunities to move up in the company.
+1788,979,1937,Better salary,Needed better compensation for my skills.
+1789,979,1937,Desire for stability,Wanted a more secure job long-term.
+1790,1307,2589,Laid off,Company downsized and I lost my job.
+1791,1307,2589,Pursuing passion,Switched to something I'm genuinely excited about.
+1792,1307,2589,Flexible schedule,Wanted better control over my time.
+1793,66,134,Better salary,Wanted to earn more to support my family.
+1794,575,1117,Career growth,No opportunities to move up in the company.
+1795,575,1117,Laid off,Position was eliminated unexpectedly.
+1796,575,1117,Work-life balance,Needed more time for family and health.
+1797,395,782,Industry decline,Needed to move to a growing sector.
+1798,1244,2469,Laid off,Company downsized and I lost my job.
+1799,1244,2469,Flexible schedule,Wanted better control over my time.
+1800,578,1121,Flexible schedule,Wanted better control over my time.
+1801,529,1038,Burnout,Too much stress in the previous role.
+1802,326,650,Laid off,Company downsized and I lost my job.
+1803,326,650,Relocation,Relocation forced a change in career.
+1804,326,650,Desire for stability,Wanted a more secure job long-term.
+1805,440,868,Relocation,Moved to a new city and needed a job switch.
+1806,872,1715,Industry decline,Old industry was shrinking with few jobs.
+1807,872,1715,Remote work opportunity,Wanted to work from home for better flexibility.
+1808,1339,2647,Burnout,Mentally exhausted from constant pressure.
+1809,1339,2647,Remote work opportunity,Old job required daily commuting.
+1810,1339,2647,Flexible schedule,Needed part-time or flexible working hours.
+1811,211,427,Laid off,Got laid off and had to start over.
+1812,211,427,Better salary,Old job didn't pay enough to cover living costs.
+1813,211,427,Flexible schedule,Old job didn't offer schedule flexibility.
+1814,670,1308,Flexible schedule,Old job didn't offer schedule flexibility.
+1815,670,1308,Work-life balance,Current job had long hours with no flexibility.
+1816,670,1308,Desire for stability,Old industry was unpredictable.
+1817,1375,2718,Career growth,Wanted to pursue a leadership role.
+1818,1375,2718,Remote work opportunity,Old job required daily commuting.
+1819,1375,2718,Work-life balance,Burned out from constant overtime.
+1820,237,483,Work-life balance,Needed more time for family and health.
+1821,237,483,Laid off,Got laid off and had to start over.
+1822,237,483,Career growth,Felt stuck in the same position for too long.
+1823,1006,1996,Career growth,No opportunities to move up in the company.
+1824,1006,1996,Burnout,Too much stress in the previous role.
+1825,1006,1996,Desire for stability,Wanted a more secure job long-term.
+1826,1462,2894,Relocation,Relocation forced a change in career.
+1827,1462,2894,Burnout,Too much stress in the previous role.
+1828,1462,2894,Pursuing passion,Wanted to follow my true interests.
+1829,1452,2875,Remote work opportunity,Old job required daily commuting.
+1830,1452,2875,Work-life balance,Burned out from constant overtime.
+1831,1069,2130,Desire for stability,Wanted a more secure job long-term.
+1832,1069,2130,Industry decline,Saw layoffs and instability in my field.
+1833,742,1450,Relocation,Relocated due to family reasons.
+1834,742,1450,Job dissatisfaction,Company culture wasn't a good fit.
+1835,742,1450,Burnout,Mentally exhausted from constant pressure.
+1836,1292,2560,Career growth,Wanted to pursue a leadership role.
+1837,1264,2510,Remote work opportunity,Old job required daily commuting.
+1838,1264,2510,Industry decline,Saw layoffs and instability in my field.
+1839,1264,2510,Desire for stability,Wanted a more secure job long-term.
+1840,1364,2694,Job dissatisfaction,didn't enjoy the work I was doing.
+1841,1364,2694,Relocation,Moved to a new city and needed a job switch.
+1842,1364,2694,Career growth,Felt stuck in the same position for too long.
+1843,481,947,Remote work opportunity,Old job required daily commuting.
+1844,481,947,Pursuing passion,Wanted to follow my true interests.
+1845,481,947,Laid off,Got laid off and had to start over.
+1846,1336,2640,Laid off,Company downsized and I lost my job.
+1847,944,1863,Job dissatisfaction,Felt unmotivated in my previous role.
+1848,944,1863,Pursuing passion,Wanted to follow my true interests.
+1849,1158,2300,Better salary,Wanted to earn more to support my family.
+1850,1404,2777,Pursuing passion,Switched to something I'm genuinely excited about.
+1851,103,216,Flexible schedule,Old job didn't offer schedule flexibility.
+1852,1487,2949,Relocation,Relocated due to family reasons.
+1853,1356,2680,Remote work opportunity,Old job required daily commuting.
+1854,1356,2680,Burnout,Job was emotionally draining.
+1855,1356,2680,Pursuing passion,Switched to something I'm genuinely excited about.
+1856,231,468,Flexible schedule,Old job didn't offer schedule flexibility.
+1857,231,468,Remote work opportunity,Old job required daily commuting.
+1858,1015,2018,Laid off,Company downsized and I lost my job.
+1859,495,978,Laid off,Company downsized and I lost my job.
+1860,495,978,Burnout,Job was emotionally draining.
+1861,568,1101,Career growth,Felt stuck in the same position for too long.
+1862,568,1101,Work-life balance,Burned out from constant overtime.
+1863,568,1101,Remote work opportunity,Old job required daily commuting.
+1864,398,789,Burnout,Mentally exhausted from constant pressure.
+1865,398,789,Pursuing passion,Wanted to follow my true interests.
+1866,398,789,Better salary,Wanted to earn more to support my family.
+1867,1386,2740,Remote work opportunity,Wanted to work from home for better flexibility.
+1868,1386,2740,Career growth,Felt stuck in the same position for too long.
+1869,930,1832,Remote work opportunity,Old job required daily commuting.
+1870,930,1832,Better salary,Old job didn't pay enough to cover living costs.
+1871,930,1832,Laid off,Got laid off and had to start over.
+1872,771,1510,Flexible schedule,Wanted better control over my time.
+1873,771,1510,Industry decline,Needed to move to a growing sector.
+1874,958,1895,Flexible schedule,Wanted better control over my time.
+1875,992,1965,Laid off,Got laid off and had to start over.
+1876,992,1965,Burnout,Mentally exhausted from constant pressure.
+1877,992,1965,Pursuing passion,Switched to something I'm genuinely excited about.
+1878,969,1916,Job dissatisfaction,Felt unmotivated in my previous role.
+1879,969,1916,Pursuing passion,Switched to something I'm genuinely excited about.
+1880,969,1916,Career growth,Wanted to pursue a leadership role.
+1881,84,173,Desire for stability,Seeking consistent income and benefits.
+1882,84,173,Laid off,Position was eliminated unexpectedly.
+1883,1199,2376,Pursuing passion,Switched to something I'm genuinely excited about.
+1884,1199,2376,Career growth,Felt stuck in the same position for too long.
+1885,1199,2376,Better salary,Needed better compensation for my skills.
+1886,1403,2774,Relocation,Relocation forced a change in career.
+1887,360,718,Relocation,Relocated due to family reasons.
+1888,360,718,Burnout,Mentally exhausted from constant pressure.
+1889,360,718,Industry decline,Saw layoffs and instability in my field.
+1890,480,945,Flexible schedule,Old job didn't offer schedule flexibility.
+1891,480,945,Better salary,Old job didn't pay enough to cover living costs.
+1892,480,945,Industry decline,Old industry was shrinking with few jobs.
+1893,1320,2613,Relocation,Relocated due to family reasons.
+1894,1320,2613,Job dissatisfaction,didn't enjoy the work I was doing.
+1895,1320,2613,Desire for stability,Seeking consistent income and benefits.
+1896,1063,2116,Burnout,Mentally exhausted from constant pressure.
+1897,1063,2116,Pursuing passion,Wanted to follow my true interests.
+1898,712,1388,Flexible schedule,Wanted better control over my time.
+1899,884,1743,Job dissatisfaction,Company culture wasn't a good fit.
+1900,151,305,N/A,No opportunities to move up in the company.
+1901,151,305,Flexible schedule,Wanted better control over my time.
+1902,151,305,Laid off,Company downsized and I lost my job.
+1903,188,376,Job dissatisfaction,Felt unmotivated in my previous role.
+1904,188,376,Desire for stability,Seeking consistent income and benefits.
+1905,188,376,Pursuing passion,Previous job wasn't aligned with my goals.
+1906,64,132,Remote work opportunity,Wanted to work from home for better flexibility.
+1907,64,132,Laid off,Got laid off and had to start over.
+1908,936,1845,Burnout,Too much stress in the previous role.
+1909,838,1641,Better salary,Old job didn't pay enough to cover living costs.
+1910,838,1641,Job dissatisfaction,Felt unmotivated in my previous role.
+1911,838,1641,Career growth,Felt stuck in the same position for too long.
+1912,512,1010,Industry decline,Saw layoffs and instability in my field.
+1913,1301,2578,Flexible schedule,Wanted better control over my time.
+1914,1301,2578,Remote work opportunity,"New role allows remote work, which I prefer."
+1915,1301,2578,Career growth,Felt stuck in the same position for too long.
+1916,272,549,Laid off,Got laid off and had to start over.
+1917,272,549,Burnout,Job was emotionally draining.
+1918,272,549,Relocation,Relocation forced a change in career.
+1919,131,270,Remote work opportunity,Old job required daily commuting.
+1920,131,270,Laid off,Position was eliminated unexpectedly.
+1921,23,52,Burnout,Job was emotionally draining.
+1922,695,1358,Burnout,Job was emotionally draining.
+1923,920,1811,Career growth,Wanted to pursue a leadership role.
+1924,920,1811,Flexible schedule,Needed part-time or flexible working hours.
+1925,920,1811,Pursuing passion,Switched to something I'm genuinely excited about.
+1926,1046,2083,Industry decline,Old industry was shrinking with few jobs.
+1927,1046,2083,Career growth,Felt stuck in the same position for too long.
+1928,1046,2083,Relocation,Relocation forced a change in career.
+1929,708,1381,Work-life balance,Burned out from constant overtime.
+1930,708,1381,Job dissatisfaction,Company culture wasn't a good fit.
+1931,422,832,Career growth,Wanted to pursue a leadership role.
+1932,422,832,Better salary,Old job didn't pay enough to cover living costs.
+1933,422,832,Laid off,Position was eliminated unexpectedly.
+1934,124,257,Work-life balance,Needed more time for family and health.
+1935,949,1874,Industry decline,Saw layoffs and instability in my field.
+1936,949,1874,Laid off,Position was eliminated unexpectedly.
+1937,952,1881,Work-life balance,Current job had long hours with no flexibility.
+1938,967,1912,Job dissatisfaction,didn't enjoy the work I was doing.
+1939,967,1912,Work-life balance,Needed more time for family and health.
+1940,238,484,Desire for stability,Wanted a more secure job long-term.
+1941,1253,2486,Remote work opportunity,Wanted to work from home for better flexibility.
+1942,1253,2486,Work-life balance,Current job had long hours with no flexibility.
+1943,1253,2486,Pursuing passion,Switched to something I'm genuinely excited about.
+1944,143,292,Better salary,Old job didn't pay enough to cover living costs.
+1945,1020,2031,Industry decline,Saw layoffs and instability in my field.
+1946,1272,2526,Job dissatisfaction,didn't enjoy the work I was doing.
+1947,1272,2526,Flexible schedule,Needed part-time or flexible working hours.
+1948,450,884,Relocation,Relocated due to family reasons.
+1949,593,1146,Industry decline,Needed to move to a growing sector.
+1950,593,1146,Better salary,Old job didn't pay enough to cover living costs.
+1951,593,1146,Job dissatisfaction,Company culture wasn't a good fit.
+1952,605,1175,Flexible schedule,Needed part-time or flexible working hours.
+1953,605,1175,Career growth,Wanted to pursue a leadership role.
+1954,77,158,Desire for stability,Seeking consistent income and benefits.
+1955,77,158,Flexible schedule,Needed part-time or flexible working hours.
+1956,1217,2414,Better salary,Needed better compensation for my skills.
+1957,1416,2806,Job dissatisfaction,didn't enjoy the work I was doing.
+1958,1416,2806,Laid off,Position was eliminated unexpectedly.
+1959,972,1921,Industry decline,Needed to move to a growing sector.
+1960,972,1921,Career growth,Wanted to pursue a leadership role.
+1961,972,1921,Work-life balance,Needed more time for family and health.
+1962,1318,2609,Burnout,Mentally exhausted from constant pressure.
+1963,907,1787,Career growth,Felt stuck in the same position for too long.
+1964,907,1787,Desire for stability,Old industry was unpredictable.
+1965,907,1787,Job dissatisfaction,Company culture wasn't a good fit.
+1966,1220,2422,Industry decline,Old industry was shrinking with few jobs.
+1967,1466,2900,Flexible schedule,Needed part-time or flexible working hours.
+1968,4,8,Remote work opportunity,Old job required daily commuting.
+1969,4,8,Job dissatisfaction,Company culture wasn't a good fit.
+1970,65,133,Desire for stability,Seeking consistent income and benefits.
+1971,65,133,Pursuing passion,Previous job wasn't aligned with my goals.
+1972,13,28,Relocation,Moved to a new city and needed a job switch.
+1973,13,28,Remote work opportunity,Wanted to work from home for better flexibility.
+1974,383,762,Better salary,Wanted to earn more to support my family.
+1975,1049,2088,Remote work opportunity,Wanted to work from home for better flexibility.
+1976,1049,2088,Relocation,N/A
+1977,769,1504,Better salary,Wanted to earn more to support my family.
+1978,769,1504,Work-life balance,Burned out from constant overtime.
+1979,769,1504,Pursuing passion,Switched to something I'm genuinely excited about.
+1980,375,746,Job dissatisfaction,Company culture wasn't a good fit.
+1981,375,746,Industry decline,Saw layoffs and instability in my field.
+1982,1118,2221,Job dissatisfaction,Felt unmotivated in my previous role.
+1983,1118,2221,Burnout,Too much stress in the previous role.
+1984,1118,2221,Flexible schedule,Needed part-time or flexible working hours.
+1985,50,103,Desire for stability,Old industry was unpredictable.
+1986,50,103,Work-life balance,Current job had long hours with no flexibility.
+1987,1190,2360,Desire for stability,Old industry was unpredictable.
+1988,1164,2310,Laid off,Got laid off and had to start over.
+1989,1164,2310,Relocation,Relocated due to family reasons.
+1990,634,1234,Career growth,Wanted to pursue a leadership role.
+1991,634,1234,Burnout,Job was emotionally draining.
+1992,634,1234,Desire for stability,Seeking consistent income and benefits.
+1993,963,1906,Flexible schedule,Needed part-time or flexible working hours.
+1994,963,1906,Work-life balance,Current job had long hours with no flexibility.
+1995,963,1906,Relocation,Moved to a new city and needed a job switch.
+1996,1491,2958,Burnout,Mentally exhausted from constant pressure.
+1997,1491,2958,Work-life balance,Needed more time for family and health.
+1998,1351,2669,Career growth,Felt stuck in the same position for too long.
+1999,1351,2669,Remote work opportunity,"New role allows remote work, which I prefer."
+2000,1351,2669,Flexible schedule,Needed part-time or flexible working hours.
+2001,902,1775,Desire for stability,Seeking consistent income and benefits.
+2002,590,1141,Job dissatisfaction,Felt unmotivated in my previous role.
+2003,590,1141,Career growth,No opportunities to move up in the company.
+2004,623,1212,Desire for stability,Seeking consistent income and benefits.
+2005,623,1212,Better salary,Needed better compensation for my skills.
+2006,623,1212,Pursuing passion,Wanted to follow my true interests.
+2007,855,1677,Flexible schedule,Wanted better control over my time.
+2008,855,1677,Desire for stability,Old industry was unpredictable.
+2009,1366,2697,Relocation,Relocated due to family reasons.
+2010,1366,2697,Industry decline,Old industry was shrinking with few jobs.
+2011,1471,2911,Career growth,Felt stuck in the same position for too long.
+2012,1471,2911,Pursuing passion,Switched to something I'm genuinely excited about.
+2013,441,869,Industry decline,Needed to move to a growing sector.
+2014,441,869,Remote work opportunity,Old job required daily commuting.
+2015,333,665,Industry decline,Saw layoffs and instability in my field.
+2016,333,665,Laid off,Company downsized and I lost my job.
+2017,1243,2468,Burnout,Job was emotionally draining.
+2018,328,655,Flexible schedule,Old job didn't offer schedule flexibility.
+2019,328,655,Burnout,Too much stress in the previous role.
+2020,292,587,Career growth,No opportunities to move up in the company.
+2021,94,197,Relocation,Relocation forced a change in career.
+2022,94,197,Flexible schedule,Needed part-time or flexible working hours.
+2023,585,1134,Burnout,Too much stress in the previous role.
+2024,585,1134,Industry decline,Needed to move to a growing sector.
+2025,585,1134,Flexible schedule,Old job didn't offer schedule flexibility.
+2026,29,67,Better salary,Wanted to earn more to support my family.
+2027,29,67,Flexible schedule,Needed part-time or flexible working hours.
+2028,698,1363,Relocation,Moved to a new city and needed a job switch.
+2029,698,1363,Industry decline,Needed to move to a growing sector.
+2030,1076,2141,Pursuing passion,Switched to something I'm genuinely excited about.
+2031,1076,2141,Remote work opportunity,Old job required daily commuting.
+2032,1076,2141,Work-life balance,Needed more time for family and health.
+2033,1142,2266,Better salary,Old job didn't pay enough to cover living costs.
+2034,649,1262,Job dissatisfaction,Company culture wasn't a good fit.
+2035,283,572,Laid off,Position was eliminated unexpectedly.
+2036,691,1348,Industry decline,Saw layoffs and instability in my field.
+2037,1408,2787,Remote work opportunity,Old job required daily commuting.
+2038,1408,2787,Relocation,Relocation forced a change in career.
+2039,1408,2787,Pursuing passion,Wanted to follow my true interests.
+2040,1431,2835,Laid off,Got laid off and had to start over.
+2041,1436,2845,Desire for stability,Seeking consistent income and benefits.
+2042,569,1103,Relocation,Relocation forced a change in career.
+2043,373,743,Burnout,Job was emotionally draining.
+2044,1222,2427,Relocation,Relocation forced a change in career.
+2045,1367,2699,Flexible schedule,Needed part-time or flexible working hours.
+2046,1367,2699,Work-life balance,Current job had long hours with no flexibility.
+2047,786,1539,Work-life balance,Burned out from constant overtime.
+2048,786,1539,Industry decline,Saw layoffs and instability in my field.
+2049,627,1220,Better salary,Old job didn't pay enough to cover living costs.
+2050,235,480,Job dissatisfaction,didn't enjoy the work I was doing.
+2051,235,480,Burnout,Job was emotionally draining.
+2052,235,480,Remote work opportunity,"New role allows remote work, which I prefer."
+2053,246,500,Pursuing passion,Previous job wasn't aligned with my goals.
+2054,246,500,Remote work opportunity,Old job required daily commuting.
+2055,246,500,Burnout,Mentally exhausted from constant pressure.
+2056,1099,2186,Job dissatisfaction,Company culture wasn't a good fit.
+2057,1099,2186,Better salary,Wanted to earn more to support my family.
+2058,156,318,Flexible schedule,Needed part-time or flexible working hours.
+2059,156,318,Industry decline,Old industry was shrinking with few jobs.
+2060,156,318,Pursuing passion,Previous job wasn't aligned with my goals.
+2061,1380,2728,Job dissatisfaction,Felt unmotivated in my previous role.
+2062,1380,2728,Work-life balance,Current job had long hours with no flexibility.
+2063,1167,2317,Burnout,Mentally exhausted from constant pressure.
+2064,421,829,Pursuing passion,Wanted to follow my true interests.
+2065,60,126,Work-life balance,Needed more time for family and health.
+2066,60,126,Industry decline,Old industry was shrinking with few jobs.
+2067,60,126,Desire for stability,Seeking consistent income and benefits.
+2068,1168,2319,Flexible schedule,Old job didn't offer schedule flexibility.
+2069,1168,2319,Better salary,Needed better compensation for my skills.
+2070,1168,2319,Relocation,Relocated due to family reasons.
+2071,1458,2887,Job dissatisfaction,Company culture wasn't a good fit.
+2072,1458,2887,Career growth,No opportunities to move up in the company.
+2073,1458,2887,Pursuing passion,Previous job wasn't aligned with my goals.
+2074,1238,2461,Industry decline,Old industry was shrinking with few jobs.
+2075,1277,2534,Desire for stability,Old industry was unpredictable.
+2076,82,169,Burnout,N/A
+2077,82,169,Industry decline,Needed to move to a growing sector.
+2078,82,169,Better salary,Wanted to earn more to support my family.
+2079,169,339,Burnout,Too much stress in the previous role.
+2080,169,339,Career growth,No opportunities to move up in the company.
+2081,169,339,Better salary,Needed better compensation for my skills.
+2082,166,336,Laid off,Got laid off and had to start over.
+2083,166,336,Flexible schedule,Needed part-time or flexible working hours.
+2084,166,336,Industry decline,Needed to move to a growing sector.
+2085,1074,2139,Desire for stability,Seeking consistent income and benefits.
+2086,1074,2139,Relocation,Relocation forced a change in career.
+2087,1074,2139,Job dissatisfaction,didn't enjoy the work I was doing.
+2088,1494,2964,Relocation,Relocation forced a change in career.
+2089,1494,2964,Job dissatisfaction,Company culture wasn't a good fit.
+2090,1450,2870,Relocation,Relocation forced a change in career.
+2091,1450,2870,Job dissatisfaction,Felt unmotivated in my previous role.
+2092,1450,2870,Desire for stability,Seeking consistent income and benefits.
+2093,1412,2797,Laid off,Position was eliminated unexpectedly.
+2094,1412,2797,Burnout,Job was emotionally draining.
+2095,1412,2797,Industry decline,Old industry was shrinking with few jobs.
+2096,675,1315,Laid off,Position was eliminated unexpectedly.
+2097,675,1315,Relocation,Moved to a new city and needed a job switch.
+2098,247,501,Laid off,Got laid off and had to start over.
+2099,247,501,Career growth,No opportunities to move up in the company.
+2100,217,441,Flexible schedule,Wanted better control over my time.
+2101,217,441,Industry decline,Old industry was shrinking with few jobs.
+2102,1028,2049,Remote work opportunity,Old job required daily commuting.
+2103,1028,2049,Work-life balance,Current job had long hours with no flexibility.
+2104,63,131,Remote work opportunity,Old job required daily commuting.
+2105,63,131,Better salary,Old job didn't pay enough to cover living costs.
+2106,63,131,Burnout,Job was emotionally draining.
+2107,457,898,Relocation,Moved to a new city and needed a job switch.
+2108,674,1314,Laid off,Got laid off and had to start over.
+2109,1242,2466,Flexible schedule,Wanted better control over my time.
+2110,218,443,Work-life balance,Current job had long hours with no flexibility.
+2111,223,453,Industry decline,Needed to move to a growing sector.
+2112,248,502,Relocation,Relocated due to family reasons.
+2113,848,1662,Desire for stability,Wanted a more secure job long-term.
+2114,848,1662,Job dissatisfaction,didn't enjoy the work I was doing.
+2115,173,349,Relocation,Relocation forced a change in career.
+2116,173,349,Flexible schedule,Old job didn't offer schedule flexibility.
+2117,1146,2272,Laid off,Got laid off and had to start over.
+2118,138,283,Work-life balance,Burned out from constant overtime.
+2119,138,283,Flexible schedule,Wanted better control over my time.
+2120,138,283,Industry decline,Saw layoffs and instability in my field.
+2121,114,238,Laid off,Got laid off and had to start over.
+2122,114,238,Career growth,Felt stuck in the same position for too long.
+2123,114,238,Better salary,Needed better compensation for my skills.
+2124,210,425,Flexible schedule,Old job didn't offer schedule flexibility.
+2125,207,417,Industry decline,Needed to move to a growing sector.
+2126,207,417,Burnout,Job was emotionally draining.
+2127,207,417,Job dissatisfaction,didn't enjoy the work I was doing.
+2128,76,154,Laid off,Position was eliminated unexpectedly.
+2129,76,154,Career growth,No opportunities to move up in the company.
+2130,812,1594,Desire for stability,Old industry was unpredictable.
+2131,812,1594,Relocation,Relocated due to family reasons.
+2132,288,580,Laid off,Company downsized and I lost my job.
+2133,288,580,Relocation,Moved to a new city and needed a job switch.
+2134,288,580,Desire for stability,Wanted a more secure job long-term.
+2135,1454,2881,Job dissatisfaction,Company culture wasn't a good fit.
+2136,935,1844,Pursuing passion,Previous job wasn't aligned with my goals.
+2137,935,1844,Better salary,Needed better compensation for my skills.
+2138,770,1507,Pursuing passion,Wanted to follow my true interests.
+2139,770,1507,Work-life balance,Current job had long hours with no flexibility.
+2140,770,1507,Industry decline,Needed to move to a growing sector.
+2141,609,1182,Job dissatisfaction,Company culture wasn't a good fit.
+2142,609,1182,Work-life balance,Burned out from constant overtime.
+2143,609,1182,Pursuing passion,Switched to something I'm genuinely excited about.
+2144,366,731,Job dissatisfaction,didn't enjoy the work I was doing.
+2145,366,731,Industry decline,Old industry was shrinking with few jobs.
+2146,751,1468,Relocation,Relocation forced a change in career.
+2147,751,1468,Career growth,Wanted to pursue a leadership role.
+2148,760,1486,Industry decline,Old industry was shrinking with few jobs.
+2149,1409,2788,Work-life balance,Current job had long hours with no flexibility.
+2150,1409,2788,Relocation,Relocated due to family reasons.
+2151,1409,2788,Pursuing passion,Wanted to follow my true interests.
+2152,748,1463,Burnout,Too much stress in the previous role.
+2153,614,1195,Burnout,Too much stress in the previous role.
+2154,614,1195,Industry decline,Needed to move to a growing sector.
+2155,374,745,Burnout,Job was emotionally draining.
+2156,374,745,Work-life balance,Burned out from constant overtime.
+2157,374,745,Industry decline,Needed to move to a growing sector.
+2158,45,95,Better salary,Needed better compensation for my skills.
+2159,45,95,Flexible schedule,Needed part-time or flexible working hours.
+2160,56,119,Desire for stability,Wanted a more secure job long-term.
+2161,56,119,Pursuing passion,Previous job wasn't aligned with my goals.
+2162,1162,2308,Laid off,Company downsized and I lost my job.
+2163,1162,2308,Better salary,Old job didn't pay enough to cover living costs.
+2164,1497,2969,Industry decline,Needed to move to a growing sector.
+2165,519,1021,Flexible schedule,Wanted better control over my time.
+2166,519,1021,Pursuing passion,Switched to something I'm genuinely excited about.
+2167,99,210,Better salary,Needed better compensation for my skills.
+2168,651,1265,Pursuing passion,Wanted to follow my true interests.
+2169,651,1265,Relocation,Relocated due to family reasons.
+2170,1308,2591,Flexible schedule,Old job didn't offer schedule flexibility.
+2171,1308,2591,Job dissatisfaction,Company culture wasn't a good fit.
+2172,591,1143,Remote work opportunity,"New role allows remote work, which I prefer."
+2173,591,1143,Pursuing passion,Switched to something I'm genuinely excited about.
+2174,591,1143,Job dissatisfaction,Felt unmotivated in my previous role.
+2175,1245,2471,Pursuing passion,Previous job wasn't aligned with my goals.
+2176,1245,2471,Relocation,Relocated due to family reasons.
+2177,873,1718,Flexible schedule,Old job didn't offer schedule flexibility.
+2178,873,1718,Better salary,Old job didn't pay enough to cover living costs.
+2179,873,1718,Burnout,Job was emotionally draining.
+2180,331,659,Burnout,Too much stress in the previous role.
+2181,331,659,Work-life balance,Current job had long hours with no flexibility.
+2182,331,659,Desire for stability,Seeking consistent income and benefits.
+2183,1166,2315,Pursuing passion,Switched to something I'm genuinely excited about.
+2184,801,1577,Desire for stability,Wanted a more secure job long-term.
+2185,801,1577,Career growth,No opportunities to move up in the company.
+2186,801,1577,Remote work opportunity,Wanted to work from home for better flexibility.
+2187,118,245,Work-life balance,Current job had long hours with no flexibility.
+2188,118,245,Burnout,Mentally exhausted from constant pressure.
+2189,118,245,Better salary,Needed better compensation for my skills.
+2190,316,630,N/A,Job was emotionally draining.
+2191,316,630,Industry decline,Saw layoffs and instability in my field.
+2192,1143,2268,Flexible schedule,Needed part-time or flexible working hours.
+2193,1143,2268,Relocation,Relocation forced a change in career.
+2194,1221,2425,Better salary,Needed better compensation for my skills.
+2195,1144,2269,Pursuing passion,Previous job wasn't aligned with my goals.
+2196,1144,2269,Remote work opportunity,"New role allows remote work, which I prefer."
+2197,1144,2269,Job dissatisfaction,Company culture wasn't a good fit.
+2198,193,385,Career growth,No opportunities to move up in the company.
+2199,193,385,Industry decline,Old industry was shrinking with few jobs.
+2200,193,385,Laid off,Company downsized and I lost my job.
+2201,230,467,Remote work opportunity,Wanted to work from home for better flexibility.
+2202,552,1073,Better salary,Old job didn't pay enough to cover living costs.
+2203,552,1073,Industry decline,Needed to move to a growing sector.
+2204,1132,2252,Career growth,Wanted to pursue a leadership role.
+2205,1132,2252,Remote work opportunity,"New role allows remote work, which I prefer."
+2206,1132,2252,Desire for stability,Seeking consistent income and benefits.
+2207,897,1764,Relocation,Relocation forced a change in career.
+2208,3,5,Work-life balance,Needed more time for family and health.
+2209,3,5,Pursuing passion,Switched to something I'm genuinely excited about.
+2210,1055,2099,Industry decline,Saw layoffs and instability in my field.
+2211,404,796,Job dissatisfaction,Felt unmotivated in my previous role.
+2212,839,1643,Career growth,Wanted to pursue a leadership role.
+2213,839,1643,Pursuing passion,Switched to something I'm genuinely excited about.
+2214,839,1643,Laid off,Got laid off and had to start over.
+2215,744,1455,Job dissatisfaction,Company culture wasn't a good fit.
+2216,744,1455,Relocation,Relocation forced a change in career.
+2217,1438,2849,Desire for stability,Old industry was unpredictable.
+2218,1438,2849,Career growth,Wanted to pursue a leadership role.
+2219,1438,2849,Burnout,Job was emotionally draining.
+2220,665,1296,Job dissatisfaction,Company culture wasn't a good fit.
+2221,665,1296,Better salary,Wanted to earn more to support my family.
+2222,665,1296,Flexible schedule,Old job didn't offer schedule flexibility.
+2223,1326,2624,Relocation,Relocation forced a change in career.
+2224,1326,2624,Remote work opportunity,Wanted to work from home for better flexibility.
+2225,824,1613,Better salary,Old job didn't pay enough to cover living costs.
+2226,824,1613,Remote work opportunity,Old job required daily commuting.
+2227,264,534,Industry decline,Saw layoffs and instability in my field.
+2228,264,534,Relocation,Relocation forced a change in career.
+2229,533,1044,Better salary,Needed better compensation for my skills.
+2230,533,1044,Industry decline,Old industry was shrinking with few jobs.
+2231,533,1044,Job dissatisfaction,Company culture wasn't a good fit.
+2232,323,645,Work-life balance,Needed more time for family and health.
+2233,323,645,Laid off,Got laid off and had to start over.
+2234,96,202,Flexible schedule,Wanted better control over my time.
+2235,96,202,Laid off,Company downsized and I lost my job.
+2236,1372,2709,Burnout,Too much stress in the previous role.
+2237,1372,2709,Job dissatisfaction,Company culture wasn't a good fit.
+2238,1231,2446,Relocation,Relocation forced a change in career.
+2239,1281,2540,Laid off,Company downsized and I lost my job.
+2240,1281,2540,Work-life balance,Needed more time for family and health.
+2241,559,1083,Work-life balance,Burned out from constant overtime.
+2242,559,1083,Laid off,Position was eliminated unexpectedly.
+2243,559,1083,Burnout,Job was emotionally draining.
+2244,572,1112,Relocation,Relocated due to family reasons.
+2245,1085,2156,Laid off,Company downsized and I lost my job.
+2246,1085,2156,Relocation,Relocation forced a change in career.
+2247,1085,2156,Job dissatisfaction,Felt unmotivated in my previous role.
+2248,171,345,Pursuing passion,Wanted to follow my true interests.
+2249,406,800,Work-life balance,Burned out from constant overtime.
+2250,406,800,Career growth,Felt stuck in the same position for too long.
+2251,753,1472,Remote work opportunity,"New role allows remote work, which I prefer."
+2252,1478,2928,Laid off,Position was eliminated unexpectedly.
+2253,1478,2928,Job dissatisfaction,Felt unmotivated in my previous role.
+2254,1478,2928,Career growth,No opportunities to move up in the company.
+2255,340,679,Better salary,Needed better compensation for my skills.
+2256,1394,2759,Flexible schedule,Old job didn't offer schedule flexibility.
+2257,1394,2759,Laid off,Position was eliminated unexpectedly.
+2258,542,1059,Remote work opportunity,Old job required daily commuting.
+2259,542,1059,Pursuing passion,Previous job wasn't aligned with my goals.
+2260,1237,2459,Laid off,Company downsized and I lost my job.
+2261,1237,2459,Pursuing passion,Previous job wasn't aligned with my goals.
+2262,1237,2459,Desire for stability,Wanted a more secure job long-term.
+2263,258,521,Industry decline,Saw layoffs and instability in my field.
+2264,1075,2140,Burnout,Too much stress in the previous role.
+2265,1075,2140,Career growth,Felt stuck in the same position for too long.
+2266,1075,2140,Relocation,Relocation forced a change in career.
+2267,483,950,Desire for stability,Seeking consistent income and benefits.
+2268,483,950,Remote work opportunity,"New role allows remote work, which I prefer."
+2269,483,950,Pursuing passion,Switched to something I'm genuinely excited about.
+2270,1058,2104,Better salary,Needed better compensation for my skills.
+2271,1058,2104,Remote work opportunity,Wanted to work from home for better flexibility.
+2272,1058,2104,Industry decline,Old industry was shrinking with few jobs.
+2273,293,588,Flexible schedule,Old job didn't offer schedule flexibility.
+2274,293,588,Better salary,Needed better compensation for my skills.
+2275,176,353,Relocation,Relocation forced a change in career.
+2276,876,1726,Pursuing passion,Switched to something I'm genuinely excited about.
+2277,876,1726,Desire for stability,Wanted a more secure job long-term.
+2278,1056,2101,Better salary,Wanted to earn more to support my family.
+2279,1056,2101,Career growth,Wanted to pursue a leadership role.
+2280,1097,2182,Remote work opportunity,"New role allows remote work, which I prefer."
+2281,1097,2182,Better salary,Needed better compensation for my skills.
+2282,416,817,Remote work opportunity,"New role allows remote work, which I prefer."
+2283,359,715,Better salary,Wanted to earn more to support my family.
+2284,359,715,Remote work opportunity,"New role allows remote work, which I prefer."
+2285,338,675,Laid off,Position was eliminated unexpectedly.
+2286,338,675,Remote work opportunity,"New role allows remote work, which I prefer."
+2287,1151,2287,Burnout,Mentally exhausted from constant pressure.
+2288,1151,2287,Industry decline,Saw layoffs and instability in my field.
+2289,1355,2679,Burnout,Job was emotionally draining.
+2290,988,1956,Relocation,Moved to a new city and needed a job switch.
+2291,42,91,Burnout,Mentally exhausted from constant pressure.
+2292,42,91,Pursuing passion,Wanted to follow my true interests.
+2293,42,91,Job dissatisfaction,Company culture wasn't a good fit.
+2294,5,13,Better salary,Needed better compensation for my skills.
+2295,5,13,Job dissatisfaction,Felt unmotivated in my previous role.
+2296,154,312,Flexible schedule,Wanted better control over my time.
+2297,154,312,Relocation,Relocated due to family reasons.
+2298,1165,2313,Relocation,Moved to a new city and needed a job switch.
+2299,90,187,Work-life balance,Needed more time for family and health.
+2300,1456,2883,Pursuing passion,Wanted to follow my true interests.
+2301,1456,2883,Burnout,Mentally exhausted from constant pressure.
+2302,759,1483,Pursuing passion,Wanted to follow my true interests.
+2303,759,1483,Desire for stability,Wanted a more secure job long-term.
+2304,759,1483,Job dissatisfaction,Felt unmotivated in my previous role.
+2305,280,564,Desire for stability,Wanted a more secure job long-term.
+2306,280,564,Relocation,Relocated due to family reasons.
+2307,280,564,Better salary,Old job didn't pay enough to cover living costs.
+2308,740,1445,Desire for stability,Wanted a more secure job long-term.
+2309,740,1445,Work-life balance,Needed more time for family and health.
+2310,932,1836,Job dissatisfaction,Felt unmotivated in my previous role.
+2311,932,1836,Desire for stability,Wanted a more secure job long-term.
+2312,932,1836,Laid off,Company downsized and I lost my job.
+2313,1196,2370,Relocation,Moved to a new city and needed a job switch.
+2314,1196,2370,Laid off,Got laid off and had to start over.
+2315,1196,2370,Job dissatisfaction,didn't enjoy the work I was doing.
+2316,174,350,Job dissatisfaction,Company culture wasn't a good fit.
+2317,174,350,Burnout,Too much stress in the previous role.
+2318,254,513,Pursuing passion,Wanted to follow my true interests.
+2319,254,513,Industry decline,Needed to move to a growing sector.
+2320,254,513,Job dissatisfaction,Felt unmotivated in my previous role.
+2321,1434,2840,Pursuing passion,Previous job wasn't aligned with my goals.
+2322,1123,2229,Remote work opportunity,"New role allows remote work, which I prefer."
+2323,1123,2229,Industry decline,Saw layoffs and instability in my field.
+2324,1294,2564,Industry decline,Needed to move to a growing sector.
+2325,105,218,Flexible schedule,Old job didn't offer schedule flexibility.
+2326,105,218,Desire for stability,Seeking consistent income and benefits.
+2327,1010,2005,Better salary,Wanted to earn more to support my family.
+2328,772,1512,Laid off,Position was eliminated unexpectedly.
+2329,772,1512,Relocation,Moved to a new city and needed a job switch.
+2330,772,1512,Remote work opportunity,Old job required daily commuting.
+2331,329,656,Remote work opportunity,"New role allows remote work, which I prefer."
+2332,1385,2739,Better salary,Wanted to earn more to support my family.
+2333,596,1154,Pursuing passion,Wanted to follow my true interests.
+2334,845,1656,Burnout,Job was emotionally draining.
+2335,363,724,Laid off,Position was eliminated unexpectedly.
+2336,738,1439,Burnout,Job was emotionally draining.
+2337,738,1439,Flexible schedule,Wanted better control over my time.
+2338,479,944,Relocation,Relocation forced a change in career.
+2339,1043,2077,Pursuing passion,Previous job wasn't aligned with my goals.
+2340,692,1349,Remote work opportunity,Old job required daily commuting.
+2341,692,1349,Desire for stability,Wanted a more secure job long-term.
+2342,472,929,Pursuing passion,Switched to something I'm genuinely excited about.
+2343,472,929,Industry decline,Old industry was shrinking with few jobs.
+2344,1205,2388,Pursuing passion,N/A
+2345,1205,2388,Career growth,No opportunities to move up in the company.
+2346,1205,2388,Burnout,Too much stress in the previous role.
+2347,756,1478,Remote work opportunity,"New role allows remote work, which I prefer."
+2348,617,1201,Industry decline,Saw layoffs and instability in my field.
+2349,1224,2431,Laid off,Got laid off and had to start over.
+2350,1224,2431,Flexible schedule,Old job didn't offer schedule flexibility.
+2351,1224,2431,Remote work opportunity,Old job required daily commuting.
+2352,127,262,Job dissatisfaction,Company culture wasn't a good fit.
+2353,1175,2333,Job dissatisfaction,didn't enjoy the work I was doing.
+2354,1175,2333,Burnout,Mentally exhausted from constant pressure.
+2355,1175,2333,Desire for stability,Old industry was unpredictable.
+2356,933,1840,Relocation,Relocation forced a change in career.
+2357,933,1840,Remote work opportunity,Old job required daily commuting.
+2358,1230,2445,Work-life balance,Burned out from constant overtime.
+2359,1421,2813,Pursuing passion,Switched to something I'm genuinely excited about.
+2360,558,1081,Job dissatisfaction,Felt unmotivated in my previous role.
+2361,558,1081,Laid off,Got laid off and had to start over.
+2362,778,1522,Work-life balance,Needed more time for family and health.
+2363,610,1184,Pursuing passion,Switched to something I'm genuinely excited about.
+2364,610,1184,Laid off,Position was eliminated unexpectedly.
+2365,557,1080,Laid off,Got laid off and had to start over.
+2366,557,1080,Desire for stability,Wanted a more secure job long-term.
+2367,158,323,Industry decline,Needed to move to a growing sector.
+2368,158,323,Work-life balance,Current job had long hours with no flexibility.
+2369,158,323,Laid off,Got laid off and had to start over.
+2370,995,1972,Flexible schedule,Wanted better control over my time.
+2371,995,1972,Remote work opportunity,Wanted to work from home for better flexibility.
+2372,858,1684,Remote work opportunity,Wanted to work from home for better flexibility.
+2373,858,1684,Job dissatisfaction,Company culture wasn't a good fit.
+2374,858,1684,Desire for stability,Old industry was unpredictable.
+2375,485,955,Desire for stability,Wanted a more secure job long-term.
+2376,485,955,Job dissatisfaction,Company culture wasn't a good fit.
+2377,900,1769,Remote work opportunity,Wanted to work from home for better flexibility.
+2378,900,1769,Industry decline,Saw layoffs and instability in my field.
+2379,900,1769,Career growth,No opportunities to move up in the company.
+2380,212,430,Burnout,Mentally exhausted from constant pressure.
+2381,212,430,Laid off,Company downsized and I lost my job.
+2382,212,430,Pursuing passion,Switched to something I'm genuinely excited about.
+2383,1309,2593,Burnout,Mentally exhausted from constant pressure.
+2384,1309,2593,Relocation,Moved to a new city and needed a job switch.
+2385,1309,2593,Job dissatisfaction,Company culture wasn't a good fit.
+2386,563,1091,Job dissatisfaction,didn't enjoy the work I was doing.
+2387,563,1091,Relocation,Relocated due to family reasons.
+2388,563,1091,Career growth,No opportunities to move up in the company.
+2389,554,1076,Laid off,Company downsized and I lost my job.
+2390,1149,2279,Remote work opportunity,Old job required daily commuting.
+2391,1149,2279,Laid off,Got laid off and had to start over.
+2392,31,71,Desire for stability,Wanted a more secure job long-term.
+2393,31,71,Job dissatisfaction,Felt unmotivated in my previous role.
+2394,513,1011,Flexible schedule,Wanted better control over my time.
+2395,513,1011,Desire for stability,Old industry was unpredictable.
+2396,1047,2084,Better salary,Needed better compensation for my skills.
+2397,1047,2084,Laid off,Got laid off and had to start over.
+2398,183,369,Pursuing passion,Wanted to follow my true interests.
+2399,183,369,Better salary,Old job didn't pay enough to cover living costs.
+2400,183,369,Burnout,Mentally exhausted from constant pressure.
+2401,815,1598,Relocation,Relocation forced a change in career.
+2402,462,908,Career growth,Felt stuck in the same position for too long.
+2403,462,908,Burnout,Mentally exhausted from constant pressure.
+2404,1090,2167,Burnout,Job was emotionally draining.
+2405,1090,2167,Flexible schedule,Wanted better control over my time.
+2406,1346,2658,Industry decline,Needed to move to a growing sector.
+2407,1346,2658,Career growth,No opportunities to move up in the company.
+2408,423,834,Pursuing passion,Wanted to follow my true interests.
+2409,423,834,Work-life balance,Current job had long hours with no flexibility.
+2410,423,834,Remote work opportunity,Old job required daily commuting.
+2411,1178,2337,Relocation,Relocated due to family reasons.
+2412,1178,2337,Remote work opportunity,"New role allows remote work, which I prefer."
+2413,489,965,Career growth,Wanted to pursue a leadership role.
+2414,489,965,Relocation,Moved to a new city and needed a job switch.
+2415,511,1008,Career growth,Felt stuck in the same position for too long.
+2416,1472,2912,Laid off,Got laid off and had to start over.
+2417,1472,2912,Industry decline,Needed to move to a growing sector.
+2418,1472,2912,Job dissatisfaction,didn't enjoy the work I was doing.
+2419,102,214,Career growth,Felt stuck in the same position for too long.
+2420,1492,2960,Desire for stability,Wanted a more secure job long-term.
+2421,1492,2960,Burnout,Job was emotionally draining.
+2422,1343,2653,Pursuing passion,Switched to something I'm genuinely excited about.
+2423,1343,2653,Relocation,Relocated due to family reasons.
+2424,1343,2653,N/A,Felt stuck in the same position for too long.
