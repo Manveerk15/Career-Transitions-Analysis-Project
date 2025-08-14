@@ -1,6 +1,6 @@
 # 📊 Career Transitions Analysis Project
 
-A real-world inspired analytics project exploring global career transitions using **SQL**, **Excel**, and **Power BI**. The project analyzes transition patterns, salary shifts, job satisfaction, reasons and barriers for switching careers, and training impacts — all modeled with relational, messy data to simulate a real business environment.
+Comprehensive data analytics project analyzing global career transitions using SQL, Excel, and Power BI. It explores transition pathways, salary trends, satisfaction levels, training impacts, and personal barriers — supported by a relational database and real-world business logic.
 
 ---
 
