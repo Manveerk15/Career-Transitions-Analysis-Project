@@ -171,9 +171,7 @@ This method gave me the opportunity to:
 ## 👩‍💻 About the Author
 
 **Manveer Kaur**  
-Aspiring Data Analyst with a multidisciplinary background in Chemistry, International Business, Marketing, and Human Resources.
-Proficient in SQL, Power BI, and Excel, with hands-on experience in end-to-end data projects.
-Known for a strong attention to detail, a passion for transforming messy data into meaningful insights, and the ability to tell compelling data-driven stories.
+Aspiring Data Analyst with a strong analytical and business-oriented background. Skilled in SQL, Power BI, and Excel, with hands-on experience delivering end-to-end data analytics projects. Passionate about cleaning, modeling, and visualizing data to uncover actionable insights and support informed decision-making.
 
 📫 LinkedIn: [Manveer Kaur](https://www.linkedin.com/in/manveer-kaur-1a7399176/)  
 📧 Email: manveerk15@gmail.com 
