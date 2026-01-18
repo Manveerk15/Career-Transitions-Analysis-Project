@@ -1,7 +1,7 @@
 
 --Participant Profile-Fetches infomation from all tables for each participant
 
-CREATE PROCEDURE spParticipantProfile @PersonID INT = 0
+CREATE PROCEDURE sp_GetParticipantProfile @PersonID INT = 0
 AS
 BEGIN
     SELECT 
